@@ -1,0 +1,456 @@
+Order_ID,Order_Date,Customer_Name,Email,Phone,City,State,Product,Category,Qty,Unit_Price,Discount,Payment_Mode,Order_Status,Delivery_Date,Sales,Net_Amount,Profit,Month,Year,Weekday
+ORD1001,2024-01-16,Preeti,preeti5332@gmail.com,9071815968.0,Delhi,Delhi,Headphones,Electronics,1.0,999.0,15.0,NetBanking,Delivered,2024-01-19,999.0,849.15,169.83,January,2024.0,Tuesday
+ORD1003,2025-03-28,Sonam,sonam2895@gmail.com,9813000316.0,Delhi,Delhi,Laptop,Electronics,4.0,25000.0,5.0,Card,Pending,2025-03-30,100000.0,95000.0,19000.0,March,2025.0,Friday
+ORD1004,,Swati,swati2984@gmail.com,9515496763.0,Pune,Maharashtra,Mouse,Electronics,1.0,499.0,0.0,NetBanking,Delivered,2024-08-28,499.0,499.0,99.80000000000001,,,
+ORD1005,2024-11-20,Divya,divya8665@gmail.com,9073476272.0,Kolkata,West Bengal,Shoes,Fashion,3.0,1499.0,0.0,COD,Delivered,2024-11-24,4497.0,4497.0,899.4000000000001,November,2024.0,Wednesday
+ORD1008,2024-12-19,Sonam,sonam962@gmail.com,9395742913.0,Pune,Maharashtra,Desk,Furniture,1.0,3999.0,20.0,UPI,Returned,2024-12-25,3999.0,3199.2,639.84,December,2024.0,Thursday
+ORD1009,2024-01-29,Sonam,sonam1334@gmail.com,9518326868.0,Chennai,Tamil Nadu,Desk,Furniture,3.0,2499.0,0.0,COD,Pending,2024-02-04,7497.0,7497.0,1499.4,January,2024.0,Monday
+ORD1011,2025-07-30,Ramesh,ramesh2777@gmail.com,9868019479.0,Bengaluru,Karnataka,Bottle,Home,5.0,299.0,0.0,NetBanking,Delivered,2025-08-09,1495.0,1495.0,299.0,July,2025.0,Wednesday
+ORD1012,2025-11-01,Gaurav,gaurav3333@gmail.com,9479900553.0,Mumbai,Maharashtra,Desk,Furniture,2.0,2499.0,10.0,Wallet,Pending,2025-11-12,4998.0,4498.2,899.64,November,2025.0,Saturday
+ORD1013,2025-10-26,Simran,simran1601@gmail.com,9164848003.0,Mumbai,Maharashtra,Watch,Fashion,4.0,4999.0,0.0,NetBanking,Delivered,2025-11-07,19996.0,19996.0,3999.2000000000003,October,2025.0,Sunday
+ORD1014,2024-02-05,Neha,neha2528@gmail.com,9130045654.0,Ahmedabad,Gujarat,Mouse,Electronics,1.0,999.0,0.0,Wallet,Delivered,2024-02-08,999.0,999.0,199.8,February,2024.0,Monday
+ORD1015,2024-10-23,Sanjay,sanjay1759@gmail.com,9682438241.0,Mumbai,Maharashtra,Bottle,Home,2.0,999.0,5.0,UPI,Delivered,2024-11-03,1998.0,1898.1,379.62,October,2024.0,Wednesday
+ORD1016,2024-06-19,Sanjay,sanjay1759@gmail.com,9682438241.0,Kolkata,West Bengal,Laptop,Electronics,1.0,45000.0,20.0,COD,Returned,2024-06-26,45000.0,36000.0,7200.0,June,2024.0,Wednesday
+ORD1018,2024-05-14,Priya,priya881@gmail.com,9887760907.0,Hyderabad,Telangana,Mouse,Electronics,1.0,499.0,20.0,Card,Delivered,2024-05-19,499.0,399.2,79.84,May,2024.0,Tuesday
+ORD1019,2025-02-01,Siddharth,siddharth9235@gmail.com,9802807503.0,Pune,Maharashtra,Mouse,Electronics,3.0,999.0,10.0,Card,Pending,2025-02-10,2997.0,2697.3,539.46,February,2025.0,Saturday
+ORD1020,2025-04-03,Vikas,vikas3822@gmail.com,9420156723.0,Lucknow,Up,Desk,Furniture,2.0,3999.0,5.0,UPI,Returned,2025-04-06,7998.0,7598.1,1519.6200000000001,April,2025.0,Thursday
+ORD1021,2025-03-25,Swati,swati4332@gmail.com,9854911344.0,Ahmedabad,Gujarat,Mouse,Electronics,3.0,999.0,10.0,COD,Delivered,2025-03-29,2997.0,2697.3,539.46,March,2025.0,Tuesday
+ORD1022,2025-02-02,Preeti,preeti3832@gmail.com,9680356836.0,Mumbai,Maharashtra,Bottle,Home,2.0,499.0,0.0,UPI,Delivered,2025-02-04,998.0,998.0,199.60000000000002,February,2025.0,Sunday
+ORD1023,2025-02-24,Nitin,nitin5770@gmail.com,9715486048.0,Jaipur,Rajasthan,Mouse,Electronics,1.0,999.0,0.0,NetBanking,Delivered,2025-03-05,999.0,999.0,199.8,February,2025.0,Monday
+ORD1024,2025-08-26,Anjali,anjali425@gmail.com,9273552516.0,Chennai,Tamil Nadu,Shoes,Fashion,3.0,999.0,0.0,Card,Pending,2025-08-31,2997.0,2997.0,599.4,August,2025.0,Tuesday
+ORD1025,,Ramesh,ramesh1706@gmail.com,9159027801.0,Chennai,Tamil Nadu,Bottle,Home,2.0,999.0,0.0,NetBanking,Pending,2025-07-28,1998.0,1998.0,399.6,,,
+ORD1026,,Sanjay,sanjay1830@gmail.com,Unknown,Lucknow,Up,Laptop,Electronics,1.0,45000.0,0.0,UPI,Cancelled,2025-11-10,45000.0,45000.0,9000.0,,,
+ORD1027,2024-08-05,Sneha,sneha1725@gmail.com,9914041418.0,Chennai,Tamil Nadu,Shoes,Fashion,2.0,1499.0,0.0,UPI,Delivered,2024-08-16,2998.0,2998.0,599.6,August,2024.0,Monday
+ORD1028,2024-03-09,Kiran,kiran4682@gmail.com,9874678279.0,Ahmedabad,Gujarat,Bottle,Home,3.0,299.0,10.0,UPI,Delivered,2024-03-17,897.0,807.3,161.46,March,2024.0,Saturday
+ORD1029,2025-09-08,Karan,karan7113@gmail.com,9498127345.0,Delhi,Delhi,Laptop,Electronics,1.0,25000.0,0.0,Card,Cancelled,2025-09-12,25000.0,25000.0,5000.0,September,2025.0,Monday
+ORD1030,2025-02-17,Kiran,kiran4682@gmail.com,9874678279.0,Pune,Maharashtra,Headphones,Electronics,4.0,2999.0,5.0,COD,Delivered,2025-03-01,11996.0,11396.2,2279.2400000000002,February,2025.0,Monday
+ORD1031,,Jyoti,jyoti129@gmail.com,9471350055.0,Mumbai,Maharashtra,Headphones,Electronics,5.0,2999.0,20.0,Wallet,Returned,2024-11-17,14995.0,11996.0,2399.2000000000003,,,
+ORD1032,2025-04-15,Kiran,kiran9678@gmail.com,9043181608.0,Mumbai,Maharashtra,Bottle,Home,5.0,,20.0,NetBanking,Pending,2025-04-21,,,,April,2025.0,Tuesday
+ORD1033,,Siddharth,siddharth2783@gmail.com,9852355687.0,Delhi,Delhi,Laptop,Electronics,1.0,25000.0,10.0,COD,Delivered,2025-08-22,25000.0,22500.0,4500.0,,,
+ORD1034,2024-10-12,Deepak,deepak5316@gmail.com,9933565071.0,Lucknow,Up,Chair,Furniture,3.0,1999.0,15.0,Wallet,Delivered,2024-10-23,5997.0,5097.45,1019.49,October,2024.0,Saturday
+ORD1035,2025-01-20,Arjun,arjun725@gmail.com,9075138530.0,Pune,Maharashtra,Desk,Furniture,2.0,2499.0,0.0,UPI,Pending,2025-01-27,4998.0,4998.0,999.6,January,2025.0,Monday
+ORD1036,2024-06-03,Aarti,aarti5538@gmail.com,9168051303.0,Hyderabad,Telangana,Shoes,Fashion,2.0,,0.0,NetBanking,Delivered,2024-06-14,,,,June,2024.0,Monday
+ORD1037,2024-10-30,Neha,neha7793@gmail.com,9115198711.0,Pune,Maharashtra,Laptop,Electronics,3.0,25000.0,15.0,Wallet,Delivered,2024-11-06,75000.0,63750.0,12750.0,October,2024.0,Wednesday
+ORD1038,2024-03-21,Monika,monika1252@gmail.com,9734882945.0,Bengaluru,Karnataka,Laptop,Electronics,2.0,35000.0,10.0,Wallet,,2024-03-29,70000.0,63000.0,12600.0,March,2024.0,Thursday
+ORD1039,2025-12-01,Siddharth,siddharth9263@gmail.com,9059316081.0,Ahmedabad,Gujarat,Headphones,Electronics,1.0,1999.0,15.0,COD,Cancelled,2025-12-12,1999.0,1699.15,339.83000000000004,December,2025.0,Monday
+ORD1040,2024-08-23,Preeti,preeti7143@gmail.com,9998299412.0,Bengaluru,Karnataka,Laptop,Electronics,1.0,45000.0,0.0,Wallet,Delivered,2024-09-04,45000.0,45000.0,9000.0,August,2024.0,Friday
+ORD1041,,Sneha,sneha6635@gmail.com,9403259304.0,Ahmedabad,Gujarat,Headphones,Electronics,5.0,1999.0,15.0,Card,Delivered,2024-01-20,9995.0,8495.75,1699.15,,,
+ORD1042,2024-12-06,Naveen,naveen2646@gmail.com,9635928141.0,Pune,Maharashtra,Mouse,Electronics,1.0,,10.0,COD,Delivered,2024-12-11,,,,December,2024.0,Friday
+ORD1043,2025-07-27,Simran,simran1601@gmail.com,9164848003.0,Jaipur,Rajasthan,Laptop,Electronics,2.0,25000.0,5.0,COD,Pending,2025-08-03,50000.0,47500.0,9500.0,July,2025.0,Sunday
+ORD1044,,Amit,amit1785@gmail.com,9497743945.0,Mumbai,Maharashtra,Bottle,Home,4.0,999.0,10.0,UPI,Delivered,2024-05-08,3996.0,3596.4,719.2800000000001,,,
+ORD1045,2025-09-15,Prashant,prashant5688@gmail.com,9575286192.0,Kolkata,West Bengal,Bottle,Home,2.0,999.0,15.0,Card,Delivered,2025-09-23,1998.0,1698.3,339.66,September,2025.0,Monday
+ORD1046,2025-02-20,Ramesh,ramesh8678@gmail.com,9593781720.0,Lucknow,Up,Shoes,Fashion,1.0,,0.0,Card,Delivered,2025-02-24,,,,February,2025.0,Thursday
+ORD1047,2025-10-01,Neha,neha9912@gmail.com,9805017751.0,Chennai,Tamil Nadu,Mouse,Electronics,4.0,1499.0,0.0,NetBanking,Cancelled,2025-10-12,5996.0,5996.0,1199.2,October,2025.0,Wednesday
+ORD1048,,Priya,priya3426@gmail.com,9096417018.0,Jaipur,Rajasthan,Chair,Furniture,1.0,1499.0,15.0,COD,Delivered,2024-04-04,1499.0,1274.15,254.83000000000004,,,
+ORD1049,2025-06-13,Sonam,sonam2895@gmail.com,9813000316.0,Jaipur,Rajasthan,Shoes,Fashion,4.0,1499.0,10.0,UPI,Cancelled,2025-06-21,5996.0,5396.4,1079.28,June,2025.0,Friday
+ORD1050,2025-02-14,Siddharth,siddharth3963@gmail.com,9053633164.0,Pune,Maharashtra,Watch,Fashion,3.0,999.0,15.0,UPI,Cancelled,2025-02-16,2997.0,2547.45,509.49,February,2025.0,Friday
+ORD1051,,Ramesh,ramesh1473@gmail.com,9708107877.0,Mumbai,Maharashtra,Mouse,Electronics,2.0,499.0,20.0,Card,Delivered,2025-08-24,998.0,798.4,159.68,,,
+ORD1052,2024-01-12,Neha,neha7793@gmail.com,9115198711.0,Bengaluru,Karnataka,Mouse,Electronics,2.0,,15.0,NetBanking,Delivered,2024-01-16,,,,January,2024.0,Friday
+ORD1054,2025-11-14,Monika,monika287@gmail.com,9559577864.0,Jaipur,Rajasthan,Mouse,Electronics,1.0,999.0,5.0,Card,Returned,2025-11-24,999.0,949.05,189.81,November,2025.0,Friday
+ORD1055,2024-03-29,Vikas,vikas1041@gmail.com,9213948360.0,Mumbai,Maharashtra,Watch,Fashion,1.0,1499.0,0.0,NetBanking,Delivered,2024-04-10,1499.0,1499.0,299.8,March,2024.0,Friday
+ORD1056,,Gaurav,gaurav3333@gmail.com,9479900553.0,Pune,Maharashtra,Shoes,Fashion,1.0,2999.0,10.0,NetBanking,Delivered,2024-09-18,2999.0,2699.1,539.82,,,
+ORD1057,2025-11-14,Arjun,arjun725@gmail.com,9075138530.0,Delhi,Delhi,Watch,Fashion,3.0,4999.0,0.0,NetBanking,Delivered,2025-11-20,14997.0,14997.0,2999.4,November,2025.0,Friday
+ORD1059,2024-04-02,Prashant,prashant5688@gmail.com,9575286192.0,Jaipur,Rajasthan,Shoes,Fashion,5.0,4999.0,15.0,Card,Delivered,2024-04-09,24995.0,21245.75,4249.150000000001,April,2024.0,Tuesday
+ORD1060,2025-04-23,Naveen,naveen4345@gmail.com,9423429119.0,Hyderabad,Telangana,Mouse,Electronics,1.0,1499.0,10.0,COD,Delivered,2025-05-03,1499.0,1349.1,269.82,April,2025.0,Wednesday
+ORD1061,2024-04-11,Aarti,aarti5538@gmail.com,9168051303.0,Chennai,Tamil Nadu,Headphones,Electronics,2.0,,10.0,Card,Delivered,2024-04-14,,,,April,2024.0,Thursday
+ORD1062,2024-10-11,Preeti,preeti3048@gmail.com,9249692986.0,Jaipur,Rajasthan,Mouse,Electronics,1.0,999.0,0.0,Wallet,Cancelled,2024-10-16,999.0,999.0,199.8,October,2024.0,Friday
+ORD1063,2025-10-16,Ravi,ravi1424@gmail.com,9618752014.0,Chennai,Tamil Nadu,Watch,Fashion,4.0,999.0,0.0,COD,Delivered,2025-10-24,3996.0,3996.0,799.2,October,2025.0,Thursday
+ORD1064,2025-04-02,Kiran,kiran4682@gmail.com,9874678279.0,Delhi,Delhi,Laptop,Electronics,3.0,,0.0,Card,Delivered,2025-04-04,,,,April,2025.0,Wednesday
+ORD1065,2025-10-31,Preeti,preeti3048@gmail.com,9249692986.0,Bengaluru,Karnataka,Headphones,Electronics,1.0,,0.0,Card,Delivered,2025-11-05,,,,October,2025.0,Friday
+ORD1066,2024-12-28,Geeta,geeta9672@gmail.com,9981797894.0,Mumbai,Maharashtra,Bottle,Home,2.0,999.0,0.0,NetBanking,Returned,2025-01-08,1998.0,1998.0,399.6,December,2024.0,Saturday
+ORD1067,2025-01-17,Nisha,nisha6359@gmail.com,9733389569.0,Ahmedabad,Gujarat,Mouse,Electronics,1.0,1499.0,0.0,NetBanking,Delivered,2025-01-21,1499.0,1499.0,299.8,January,2025.0,Friday
+ORD1068,2025-01-03,Sunita,sunita9019@gmail.com,9166824661.0,Jaipur,Rajasthan,Mouse,Electronics,3.0,999.0,15.0,NetBanking,Delivered,2025-01-15,2997.0,2547.45,509.49,January,2025.0,Friday
+ORD1069,2025-02-22,Neha,neha7793@gmail.com,9115198711.0,Lucknow,Up,Headphones,Electronics,1.0,,15.0,UPI,Returned,2025-03-05,,,,February,2025.0,Saturday
+ORD1070,2025-05-02,Sanjay,sanjay3323@gmail.com,9572453611.0,Chennai,Tamil Nadu,Chair,Furniture,3.0,1999.0,5.0,Card,Pending,2025-05-04,5997.0,5697.15,1139.43,May,2025.0,Friday
+ORD1071,2025-09-16,Sonam,sonam6838@gmail.com,9610809010.0,Mumbai,Maharashtra,Desk,Furniture,2.0,3999.0,0.0,Wallet,Delivered,2025-09-26,7998.0,7998.0,1599.6000000000001,September,2025.0,Tuesday
+ORD1072,,Saurabh,saurabh2338@gmail.com,9031816560.0,Pune,Maharashtra,Shoes,Fashion,3.0,4999.0,20.0,Wallet,Returned,2025-10-08,14997.0,11997.6,2399.52,,,
+ORD1074,2024-04-02,Arjun,arjun604@gmail.com,9394194990.0,Jaipur,Rajasthan,Headphones,Electronics,1.0,2999.0,0.0,NetBanking,Delivered,2024-04-06,2999.0,2999.0,599.8000000000001,April,2024.0,Tuesday
+ORD1075,2025-08-02,Simran,simran5607@gmail.com,9185460891.0,Mumbai,Maharashtra,Desk,Furniture,2.0,2499.0,0.0,UPI,Delivered,2025-08-07,4998.0,4998.0,999.6,August,2025.0,Saturday
+ORD1076,2024-07-07,Swati,swati9178@gmail.com,9305411709.0,Lucknow,Up,Bottle,Home,1.0,999.0,0.0,UPI,Delivered,2024-07-10,999.0,999.0,199.8,July,2024.0,Sunday
+ORD1077,2024-08-31,Riya,riya4476@gmail.com,9633334534.0,Ahmedabad,Gujarat,Mouse,Electronics,2.0,,15.0,UPI,Delivered,2024-09-02,,,,August,2024.0,Saturday
+ORD1078,2024-04-18,Riya,riya4476@gmail.com,9633334534.0,Kolkata,West Bengal,Chair,Furniture,5.0,1999.0,0.0,Wallet,Returned,2024-04-20,9995.0,9995.0,1999.0,April,2024.0,Thursday
+ORD1079,2025-05-08,Suresh,suresh3448@gmail.com,9516143982.0,Bengaluru,Karnataka,Headphones,Electronics,3.0,1999.0,15.0,COD,Delivered,2025-05-10,5997.0,5097.45,1019.49,May,2025.0,Thursday
+ORD1080,,Prashant,prashant2534@gmail.com,9956547376.0,Kolkata,West Bengal,Desk,Furniture,1.0,5999.0,20.0,Card,Delivered,2024-01-16,5999.0,4799.2,959.84,,,
+ORD1081,2024-11-13,Suresh,suresh712@gmail.com,9360244312.0,Kolkata,West Bengal,Desk,Furniture,5.0,3999.0,10.0,UPI,Delivered,2024-11-17,19995.0,17995.5,3599.1000000000004,November,2024.0,Wednesday
+ORD1082,2025-08-03,Vinay,vinay236@gmail.com,9439230145.0,Chennai,Tamil Nadu,Headphones,Electronics,1.0,1999.0,0.0,NetBanking,Delivered,2025-08-05,1999.0,1999.0,399.8,August,2025.0,Sunday
+ORD1083,2024-12-23,Divya,divya9338@gmail.com,9481250538.0,Mumbai,Maharashtra,Laptop,Electronics,1.0,45000.0,5.0,Card,Delivered,2025-01-02,45000.0,42750.0,8550.0,December,2024.0,Monday
+ORD1084,2025-09-10,Nisha,nisha8638@gmail.com,9467413754.0,Bengaluru,Karnataka,Chair,Furniture,1.0,999.0,0.0,Card,Delivered,2025-09-16,999.0,999.0,199.8,September,2025.0,Wednesday
+ORD1085,2024-11-29,Meera,meera2397@gmail.com,9054738568.0,Lucknow,Up,Mouse,Electronics,1.0,999.0,15.0,UPI,Cancelled,2024-12-01,999.0,849.15,169.83,November,2024.0,Friday
+ORD1086,,Amit,amit5087@gmail.com,9280868448.0,Chennai,Tamil Nadu,Watch,Fashion,4.0,1499.0,10.0,COD,Pending,2024-12-30,5996.0,5396.4,1079.28,,,
+ORD1087,2025-06-05,Riya,riya2249@gmail.com,9302009359.0,Hyderabad,Telangana,Watch,Fashion,5.0,4999.0,10.0,Wallet,Pending,2025-06-13,24995.0,22495.5,4499.1,June,2025.0,Thursday
+ORD1088,2024-01-14,Alok,alok8457@gmail.com,9640752220.0,Bengaluru,Karnataka,Shoes,Fashion,5.0,2999.0,15.0,Card,Cancelled,2024-01-25,14995.0,12745.75,2549.15,January,2024.0,Sunday
+ORD1089,2024-01-02,Simran,simran8991@gmail.com,9496317399.0,Pune,Maharashtra,Bottle,Home,3.0,999.0,10.0,NetBanking,Pending,2024-01-11,2997.0,2697.3,539.46,January,2024.0,Tuesday
+ORD1091,2024-07-16,Preeti,preeti3832@gmail.com,9680356836.0,Delhi,Delhi,Chair,Furniture,1.0,999.0,10.0,Wallet,Delivered,2024-07-23,999.0,899.1,179.82000000000002,July,2024.0,Tuesday
+ORD1092,2025-08-28,Suresh,suresh2620@gmail.com,9664307335.0,Chennai,Tamil Nadu,Mouse,Electronics,1.0,499.0,20.0,Wallet,Delivered,2025-09-04,499.0,399.2,79.84,August,2025.0,Thursday
+ORD1093,2025-07-12,Divya,divya6409@gmail.com,9873822341.0,Pune,Maharashtra,Watch,Fashion,1.0,4999.0,10.0,Card,Delivered,2025-07-22,4999.0,4499.1,899.8200000000002,July,2025.0,Saturday
+ORD1094,,Ramesh,ramesh9875@gmail.com,9984825348.0,Chennai,Tamil Nadu,Shoes,Fashion,2.0,,20.0,Card,Delivered,2024-04-18,,,,,,
+ORD1095,2024-02-07,Preeti,preeti5332@gmail.com,9071815968.0,Mumbai,Maharashtra,Desk,Furniture,1.0,3999.0,5.0,UPI,Pending,2024-02-19,3999.0,3799.05,759.8100000000001,February,2024.0,Wednesday
+ORD1096,2024-01-20,Siddharth,siddharth5918@gmail.com,Unknown,Delhi,Delhi,Desk,Furniture,1.0,3999.0,10.0,Wallet,Delivered,2024-02-01,3999.0,3599.1,719.82,January,2024.0,Saturday
+ORD1097,2024-08-29,Nisha,nisha8638@gmail.com,9467413754.0,Kolkata,West Bengal,Watch,Fashion,5.0,999.0,10.0,NetBanking,Delivered,2024-09-07,4995.0,4495.5,899.1,August,2024.0,Thursday
+ORD1098,2024-09-13,Ramesh,ramesh1473@gmail.com,9708107877.0,Kolkata,West Bengal,Bottle,Home,2.0,,0.0,NetBanking,Delivered,2024-09-25,,,,September,2024.0,Friday
+ORD1099,2024-11-10,Siddharth,siddharth2464@gmail.com,9049518159.0,Kolkata,West Bengal,Laptop,Electronics,1.0,45000.0,10.0,NetBanking,Cancelled,2024-11-17,45000.0,40500.0,8100.0,November,2024.0,Sunday
+ORD1101,2025-04-12,Preeti,preeti7724@gmail.com,9059063049.0,Delhi,Delhi,Headphones,Electronics,1.0,999.0,0.0,UPI,Delivered,2025-04-24,999.0,999.0,199.8,April,2025.0,Saturday
+ORD1102,2024-11-11,Ravi,ravi1424@gmail.com,9618752014.0,Jaipur,Rajasthan,Shoes,Fashion,2.0,2999.0,15.0,UPI,Pending,2024-11-19,5998.0,5098.3,1019.6600000000001,November,2024.0,Monday
+ORD1104,2024-07-21,Jyoti,jyoti5808@gmail.com,9713873701.0,Bengaluru,Karnataka,Chair,Furniture,3.0,1499.0,10.0,COD,Delivered,2024-07-30,4497.0,4047.3,809.46,July,2024.0,Sunday
+ORD1105,2025-03-24,Anjali,anjali425@gmail.com,9273552516.0,Pune,Maharashtra,Shoes,Fashion,2.0,4999.0,0.0,COD,Cancelled,2025-04-03,9998.0,9998.0,1999.6000000000001,March,2025.0,Monday
+ORD1106,2025-03-29,Vikas,vikas3822@gmail.com,9420156723.0,Chennai,Tamil Nadu,Laptop,Electronics,2.0,45000.0,0.0,Wallet,Delivered,2025-04-07,90000.0,90000.0,18000.0,March,2025.0,Saturday
+ORD1107,2024-09-17,Rekha,rekha4674@gmail.com,9484057428.0,Hyderabad,Telangana,Mouse,Electronics,1.0,999.0,15.0,Card,Delivered,2024-09-27,999.0,849.15,169.83,September,2024.0,Tuesday
+ORD1108,,Sonal,sonal7043@gmail.com,9144452800.0,Kolkata,West Bengal,Chair,Furniture,1.0,1499.0,0.0,UPI,Pending,2025-04-19,1499.0,1499.0,299.8,,,
+ORD1109,,Suresh,suresh10@gmail.com,9146534507.0,Bengaluru,Karnataka,Bottle,Home,3.0,499.0,0.0,NetBanking,Pending,2025-03-02,1497.0,1497.0,299.40000000000003,,,
+ORD1110,2024-01-28,Swati,swati1079@gmail.com,9099899432.0,Hyderabad,Telangana,Desk,Furniture,1.0,,5.0,NetBanking,Delivered,2024-02-06,,,,January,2024.0,Sunday
+ORD1111,2025-01-25,Aditya,aditya4457@gmail.com,9058715958.0,Delhi,Delhi,Mouse,Electronics,1.0,999.0,0.0,COD,Delivered,2025-01-31,999.0,999.0,199.8,January,2025.0,Saturday
+ORD1112,2025-01-28,Arjun,arjun4054@gmail.com,9928163790.0,Ahmedabad,Gujarat,Mouse,Electronics,2.0,999.0,10.0,COD,Delivered,2025-02-07,1998.0,1798.2,359.64000000000004,January,2025.0,Tuesday
+ORD1113,,Sunita,sunita5710@gmail.com,9373964812.0,Delhi,Delhi,Headphones,Electronics,4.0,,5.0,NetBanking,Delivered,2024-09-23,,,,,,
+ORD1114,2024-03-06,Jyoti,jyoti259@gmail.com,9856408045.0,Jaipur,Rajasthan,Shoes,Fashion,1.0,999.0,0.0,COD,Delivered,2024-03-16,999.0,999.0,199.8,March,2024.0,Wednesday
+ORD1115,2025-04-02,Raj,raj8813@gmail.com,9636131600.0,Ahmedabad,Gujarat,Bottle,Home,2.0,499.0,0.0,COD,Delivered,2025-04-08,998.0,998.0,199.60000000000002,April,2025.0,Wednesday
+ORD1116,2025-08-02,Rekha,rekha2267@gmail.com,9118312172.0,Hyderabad,Telangana,Laptop,Electronics,3.0,25000.0,10.0,Wallet,Pending,2025-08-11,75000.0,67500.0,13500.0,August,2025.0,Saturday
+ORD1117,,Alok,alok8537@gmail.com,9758570476.0,Ahmedabad,Gujarat,Watch,Fashion,3.0,4999.0,20.0,NetBanking,Returned,2024-08-11,14997.0,11997.6,2399.52,,,
+ORD1118,2024-09-27,Nisha,nisha8638@gmail.com,9467413754.0,Kolkata,West Bengal,Bottle,Home,1.0,999.0,10.0,NetBanking,Delivered,2024-10-04,999.0,899.1,179.82000000000002,September,2024.0,Friday
+ORD1119,2025-03-29,Vinay,vinay5609@gmail.com,9453446766.0,Chennai,Tamil Nadu,Laptop,Electronics,1.0,45000.0,0.0,Wallet,Returned,2025-04-04,45000.0,45000.0,9000.0,March,2025.0,Saturday
+ORD1120,2024-08-06,Sunita,sunita4127@gmail.com,9168015518.0,Chennai,Tamil Nadu,Watch,Fashion,1.0,999.0,10.0,UPI,Delivered,2024-08-18,999.0,899.1,179.82000000000002,August,2024.0,Tuesday
+ORD1121,2025-10-27,Jyoti,jyoti9708@gmail.com,9758660688.0,Hyderabad,Telangana,Chair,Furniture,2.0,,10.0,NetBanking,Delivered,2025-11-04,,,,October,2025.0,Monday
+ORD1122,2024-11-14,Rekha,rekha4674@gmail.com,9484057428.0,Delhi,Delhi,Shoes,Fashion,4.0,2999.0,20.0,UPI,Pending,2024-11-25,11996.0,9596.8,1919.36,November,2024.0,Thursday
+ORD1123,2025-01-03,Swati,swati476@gmail.com,9507030068.0,Jaipur,Rajasthan,Desk,Furniture,3.0,5999.0,10.0,COD,Delivered,2025-01-10,17997.0,16197.3,3239.46,January,2025.0,Friday
+ORD1124,2025-07-20,Divya,divya8665@gmail.com,9073476272.0,Jaipur,Rajasthan,Mouse,Electronics,2.0,999.0,10.0,UPI,Delivered,2025-07-26,1998.0,1798.2,359.64000000000004,July,2025.0,Sunday
+ORD1125,2025-05-05,Saurabh,saurabh8315@gmail.com,9411664972.0,Ahmedabad,Gujarat,Chair,Furniture,2.0,999.0,5.0,NetBanking,Pending,2025-05-08,1998.0,1898.1,379.62,May,2025.0,Monday
+ORD1126,2024-03-01,Naveen,naveen4345@gmail.com,9423429119.0,Kolkata,West Bengal,Shoes,Fashion,3.0,999.0,20.0,Wallet,Pending,2024-03-03,2997.0,2397.6,479.52,March,2024.0,Friday
+ORD1127,2024-12-13,Siddharth,siddharth7751@gmail.com,9330699026.0,Kolkata,West Bengal,Laptop,Electronics,1.0,35000.0,0.0,Wallet,Returned,2024-12-23,35000.0,35000.0,7000.0,December,2024.0,Friday
+ORD1128,2024-01-15,Arjun,arjun604@gmail.com,9394194990.0,Bengaluru,Karnataka,Laptop,Electronics,2.0,35000.0,20.0,Wallet,Cancelled,2024-01-26,70000.0,56000.0,11200.0,January,2024.0,Monday
+ORD1129,2025-02-16,Simran,simran3938@gmail.com,9662501381.0,Ahmedabad,Gujarat,Laptop,Electronics,4.0,35000.0,5.0,COD,Delivered,2025-02-22,140000.0,133000.0,26600.0,February,2025.0,Sunday
+ORD1130,2024-10-08,Gaurav,gaurav6706@gmail.com,Unknown,Ahmedabad,Gujarat,Laptop,Electronics,1.0,45000.0,0.0,Wallet,Delivered,2024-10-14,45000.0,45000.0,9000.0,October,2024.0,Tuesday
+ORD1131,2024-12-08,Naveen,naveen8990@gmail.com,9121462755.0,Pune,Maharashtra,Bottle,Home,2.0,499.0,5.0,UPI,Pending,2024-12-14,998.0,948.1,189.62,December,2024.0,Sunday
+ORD1132,,Ramesh,ramesh1706@gmail.com,9159027801.0,Mumbai,Maharashtra,Headphones,Electronics,2.0,1999.0,20.0,COD,Delivered,2025-04-12,3998.0,3198.4,639.6800000000001,,,
+ORD1133,2024-12-18,Suresh,suresh10@gmail.com,9146534507.0,Lucknow,Up,Desk,Furniture,1.0,2499.0,5.0,UPI,Delivered,2024-12-28,2499.0,2374.05,474.81000000000006,December,2024.0,Wednesday
+ORD1134,2025-07-29,Gaurav,gaurav6448@gmail.com,9987289404.0,Delhi,Delhi,Laptop,Electronics,2.0,,0.0,COD,Delivered,2025-08-09,,,,July,2025.0,Tuesday
+ORD1135,2025-04-16,Preeti,preeti6771@gmail.com,9341580042.0,Delhi,Delhi,Chair,Furniture,1.0,1499.0,10.0,NetBanking,Delivered,2025-04-19,1499.0,1349.1,269.82,April,2025.0,Wednesday
+ORD1136,2024-10-02,Sonam,sonam9165@gmail.com,9766983136.0,Ahmedabad,Gujarat,Headphones,Electronics,2.0,1999.0,5.0,UPI,Cancelled,2024-10-12,3998.0,3798.1,759.62,October,2024.0,Wednesday
+ORD1137,2024-10-10,Rekha,rekha9085@gmail.com,9006791356.0,Hyderabad,Telangana,Headphones,Electronics,3.0,999.0,5.0,NetBanking,Pending,2024-10-13,2997.0,2847.15,569.4300000000001,October,2024.0,Thursday
+ORD1139,2024-03-30,Rahul,rahul5159@gmail.com,9472521408.0,Lucknow,Up,Laptop,Electronics,1.0,25000.0,0.0,UPI,Delivered,2024-04-01,25000.0,25000.0,5000.0,March,2024.0,Saturday
+ORD1140,,Sonam,sonam1334@gmail.com,9518326868.0,Pune,Maharashtra,Mouse,Electronics,1.0,999.0,0.0,COD,Delivered,2025-04-07,999.0,999.0,199.8,,,
+ORD1142,2024-05-12,Rekha,rekha7839@gmail.com,9419447290.0,Hyderabad,Telangana,Shoes,Fashion,1.0,1499.0,20.0,UPI,Delivered,2024-05-14,1499.0,1199.2,239.84000000000003,May,2024.0,Sunday
+ORD1144,2025-10-05,Anjali,anjali5202@gmail.com,9782438196.0,Kolkata,West Bengal,Bottle,Home,1.0,299.0,5.0,NetBanking,Delivered,2025-10-12,299.0,284.05,56.81,October,2025.0,Sunday
+ORD1145,,Ramesh,ramesh9875@gmail.com,9984825348.0,Mumbai,Maharashtra,Watch,Fashion,2.0,1499.0,0.0,UPI,Pending,2025-10-24,2998.0,2998.0,599.6,,,
+ORD1146,,Aditya,aditya4925@gmail.com,9439977305.0,Ahmedabad,Gujarat,Laptop,Electronics,5.0,45000.0,0.0,COD,Delivered,2024-05-08,225000.0,225000.0,45000.0,,,
+ORD1147,2025-01-03,Suresh,suresh2620@gmail.com,9664307335.0,Lucknow,Up,Chair,Furniture,1.0,999.0,10.0,Card,Pending,2025-01-05,999.0,899.1,179.82000000000002,January,2025.0,Friday
+ORD1148,2024-04-04,Suresh,suresh1994@gmail.com,9079589902.0,Chennai,Tamil Nadu,Watch,Fashion,2.0,4999.0,0.0,UPI,Pending,2024-04-08,9998.0,9998.0,1999.6000000000001,April,2024.0,Thursday
+ORD1149,2024-10-31,Siddharth,siddharth6990@gmail.com,9631159567.0,Pune,Maharashtra,Shoes,Fashion,1.0,2999.0,5.0,UPI,Pending,2024-11-02,2999.0,2849.05,569.8100000000001,October,2024.0,Thursday
+ORD1150,2024-09-24,Rekha,rekha9085@gmail.com,9006791356.0,Delhi,Delhi,Bottle,Home,4.0,299.0,5.0,COD,Delivered,2024-09-30,1196.0,1136.2,227.24,September,2024.0,Tuesday
+ORD1151,2025-09-20,Siddharth,siddharth3762@gmail.com,9202670349.0,Delhi,Delhi,Shoes,Fashion,1.0,1499.0,0.0,Wallet,Pending,2025-09-27,1499.0,1499.0,299.8,September,2025.0,Saturday
+ORD1152,2024-03-13,Naveen,naveen2646@gmail.com,9635928141.0,Delhi,Delhi,Headphones,Electronics,4.0,1999.0,0.0,UPI,Delivered,2024-03-15,7996.0,7996.0,1599.2,March,2024.0,Wednesday
+ORD1153,2024-10-03,Siddharth,siddharth7751@gmail.com,9330699026.0,Bengaluru,Karnataka,Watch,Fashion,1.0,1499.0,15.0,Wallet,Pending,2024-10-12,1499.0,1274.15,254.83000000000004,October,2024.0,Thursday
+ORD1154,2024-04-11,Sonam,sonam3115@gmail.com,9559422436.0,Delhi,Delhi,Shoes,Fashion,1.0,2999.0,10.0,UPI,Delivered,2024-04-22,2999.0,2699.1,539.82,April,2024.0,Thursday
+ORD1157,,Naveen,naveen2646@gmail.com,9635928141.0,Hyderabad,Telangana,Headphones,Electronics,3.0,999.0,20.0,Wallet,Delivered,2024-09-12,2997.0,2397.6,479.52,,,
+ORD1158,2025-10-31,Gaurav,gaurav3333@gmail.com,9479900553.0,Pune,Maharashtra,Shoes,Fashion,2.0,999.0,10.0,UPI,Delivered,2025-11-07,1998.0,1798.2,359.64000000000004,October,2025.0,Friday
+ORD1159,,Divya,divya1106@gmail.com,9322650924.0,Delhi,Delhi,Chair,Furniture,1.0,1999.0,10.0,UPI,Cancelled,2025-08-04,1999.0,1799.1,359.82,,,
+ORD1160,2024-02-23,Sonam,sonam1334@gmail.com,9518326868.0,Lucknow,Up,Laptop,Electronics,1.0,35000.0,15.0,Card,Returned,2024-03-06,35000.0,29750.0,5950.0,February,2024.0,Friday
+ORD1161,2024-06-25,Naveen,naveen4345@gmail.com,9423429119.0,Kolkata,West Bengal,Mouse,Electronics,5.0,499.0,0.0,UPI,Delivered,2024-07-06,2495.0,2495.0,499.0,June,2024.0,Tuesday
+ORD1162,2024-05-06,Divya,divya8665@gmail.com,9073476272.0,Kolkata,West Bengal,Bottle,Home,1.0,299.0,15.0,Wallet,Delivered,2024-05-13,299.0,254.15,50.830000000000005,May,2024.0,Monday
+ORD1163,2025-07-27,Gaurav,gaurav9491@gmail.com,9167226160.0,Kolkata,West Bengal,Bottle,Home,4.0,499.0,15.0,UPI,Delivered,2025-08-06,1996.0,1696.6,339.32,July,2025.0,Sunday
+ORD1164,2025-06-22,Ravi,ravi1424@gmail.com,9618752014.0,Jaipur,Rajasthan,Chair,Furniture,4.0,1499.0,10.0,COD,Delivered,2025-06-24,5996.0,5396.4,1079.28,June,2025.0,Sunday
+ORD1165,,Harish,harish458@gmail.com,9587674610.0,Kolkata,West Bengal,Bottle,Home,1.0,299.0,10.0,Wallet,Pending,2025-09-10,299.0,269.1,53.82000000000001,,,
+ORD1166,2025-08-24,Suresh,suresh10@gmail.com,9146534507.0,Lucknow,Up,Watch,Fashion,2.0,4999.0,0.0,COD,Delivered,2025-08-29,9998.0,9998.0,1999.6000000000001,August,2025.0,Sunday
+ORD1167,2024-05-25,Sonal,sonal7043@gmail.com,9144452800.0,Hyderabad,Telangana,Shoes,Fashion,1.0,,15.0,NetBanking,Delivered,2024-05-30,,,,May,2024.0,Saturday
+ORD1168,2024-07-19,Neha,neha9912@gmail.com,9805017751.0,Mumbai,Maharashtra,Headphones,Electronics,2.0,,10.0,NetBanking,Delivered,2024-07-22,,,,July,2024.0,Friday
+ORD1169,2025-08-01,Sonam,sonam962@gmail.com,9395742913.0,Mumbai,Maharashtra,Mouse,Electronics,1.0,499.0,15.0,NetBanking,Cancelled,2025-08-12,499.0,424.15,84.83,August,2025.0,Friday
+ORD1170,2025-03-18,Ramesh,ramesh1473@gmail.com,9708107877.0,Ahmedabad,Gujarat,Bottle,Home,4.0,499.0,10.0,NetBanking,Pending,2025-03-26,1996.0,1796.4,359.28000000000003,March,2025.0,Tuesday
+ORD1171,2024-10-27,Riya,riya2249@gmail.com,9302009359.0,Chennai,Tamil Nadu,Headphones,Electronics,2.0,2999.0,0.0,Wallet,Pending,2024-10-29,5998.0,5998.0,1199.6000000000001,October,2024.0,Sunday
+ORD1172,,Deepak,deepak3485@gmail.com,9360734438.0,Bengaluru,Karnataka,Shoes,Fashion,2.0,999.0,15.0,Wallet,Delivered,2025-04-13,1998.0,1698.3,339.66,,,
+ORD1174,2024-03-06,Meera,meera6646@gmail.com,9122581359.0,Ahmedabad,Gujarat,Chair,Furniture,4.0,1999.0,5.0,NetBanking,Delivered,2024-03-18,7996.0,7596.2,1519.24,March,2024.0,Wednesday
+ORD1175,2025-09-11,Neha,neha6795@gmail.com,9434427514.0,Jaipur,Rajasthan,Mouse,Electronics,2.0,999.0,15.0,COD,Returned,2025-09-23,1998.0,1698.3,339.66,September,2025.0,Thursday
+ORD1176,2025-05-24,Saurabh,saurabh2338@gmail.com,9031816560.0,Chennai,Tamil Nadu,Chair,Furniture,1.0,1999.0,0.0,NetBanking,Delivered,2025-06-05,1999.0,1999.0,399.8,May,2025.0,Saturday
+ORD1177,2024-10-17,Harish,harish7852@gmail.com,9684808662.0,Delhi,Delhi,Bottle,Home,1.0,,0.0,Card,Cancelled,2024-10-28,,,,October,2024.0,Thursday
+ORD1179,2024-12-15,Harish,harish5956@gmail.com,9580385507.0,Pune,Maharashtra,Mouse,Electronics,4.0,499.0,10.0,COD,Pending,2024-12-18,1996.0,1796.4,359.28000000000003,December,2024.0,Sunday
+ORD1180,2025-08-02,Simran,simran2750@gmail.com,9053563645.0,Jaipur,Rajasthan,Desk,Furniture,1.0,2499.0,0.0,NetBanking,Delivered,2025-08-08,2499.0,2499.0,499.8,August,2025.0,Saturday
+ORD1181,2025-06-04,Swati,swati2984@gmail.com,9515496763.0,Kolkata,West Bengal,Shoes,Fashion,3.0,1499.0,15.0,Wallet,Pending,2025-06-12,4497.0,3822.45,764.49,June,2025.0,Wednesday
+ORD1182,2025-04-09,Karan,karan5825@gmail.com,9089887565.0,Lucknow,Up,Desk,Furniture,1.0,2499.0,5.0,COD,Delivered,2025-04-11,2499.0,2374.05,474.81000000000006,April,2025.0,Wednesday
+ORD1184,2024-02-16,Ravi,ravi7442@gmail.com,Unknown,Lucknow,Up,Watch,Fashion,1.0,999.0,15.0,Card,Delivered,2024-02-21,999.0,849.15,169.83,February,2024.0,Friday
+ORD1185,2024-05-18,Preeti,preeti104@gmail.com,9900047688.0,Bengaluru,Karnataka,Headphones,Electronics,3.0,1999.0,0.0,UPI,Delivered,2024-05-25,5997.0,5997.0,1199.4,May,2024.0,Saturday
+ORD1186,2024-09-15,Saurabh,saurabh9401@gmail.com,9687755714.0,Delhi,Delhi,Mouse,Electronics,3.0,1499.0,20.0,NetBanking,Delivered,2024-09-25,4497.0,3597.6,719.52,September,2024.0,Sunday
+ORD1187,2025-08-14,Sonam,sonam5531@gmail.com,9887345071.0,Pune,Maharashtra,Laptop,Electronics,2.0,,10.0,UPI,Delivered,2025-08-22,,,,August,2025.0,Thursday
+ORD1188,2025-09-06,Anil,anil4656@gmail.com,9594203719.0,Jaipur,Rajasthan,Mouse,Electronics,2.0,1499.0,15.0,UPI,Delivered,2025-09-14,2998.0,2548.3,509.6600000000001,September,2025.0,Saturday
+ORD1189,2024-12-22,Tarun,tarun7768@gmail.com,9405158682.0,Mumbai,Maharashtra,Watch,Fashion,2.0,4999.0,5.0,Wallet,Returned,2025-01-01,9998.0,9498.1,1899.6200000000001,December,2024.0,Sunday
+ORD1190,2024-05-18,Naveen,naveen6857@gmail.com,9383692066.0,Bengaluru,Karnataka,Shoes,Fashion,1.0,4999.0,0.0,Wallet,Delivered,2024-05-25,4999.0,4999.0,999.8000000000001,May,2024.0,Saturday
+ORD1192,2025-06-24,Simran,simran9448@gmail.com,9902149712.0,Delhi,Delhi,Shoes,Fashion,1.0,999.0,10.0,Card,Delivered,2025-07-01,999.0,899.1,179.82000000000002,June,2025.0,Tuesday
+ORD1193,2024-09-12,Vikas,vikas3822@gmail.com,9420156723.0,Pune,Maharashtra,Bottle,Home,1.0,299.0,5.0,Wallet,Pending,2024-09-23,299.0,284.05,56.81,September,2024.0,Thursday
+ORD1194,2025-07-19,Rohit,rohit5231@gmail.com,9759387735.0,Kolkata,West Bengal,Shoes,Fashion,2.0,4999.0,5.0,Wallet,Delivered,2025-07-25,9998.0,9498.1,1899.6200000000001,July,2025.0,Saturday
+ORD1195,2024-06-19,Swati,swati2705@gmail.com,9184207664.0,Jaipur,Rajasthan,Desk,Furniture,4.0,2499.0,10.0,COD,Delivered,2024-06-23,9996.0,8996.4,1799.28,June,2024.0,Wednesday
+ORD1196,2025-03-21,Preeti,preeti104@gmail.com,9900047688.0,Pune,Maharashtra,Shoes,Fashion,1.0,999.0,0.0,UPI,Pending,2025-03-29,999.0,999.0,199.8,March,2025.0,Friday
+ORD1197,2025-09-10,Neha,neha9912@gmail.com,9805017751.0,Lucknow,Up,Chair,Furniture,3.0,999.0,15.0,NetBanking,Delivered,2025-09-12,2997.0,2547.45,509.49,September,2025.0,Wednesday
+ORD1199,,Riya,riya5864@gmail.com,9520616676.0,Pune,Maharashtra,Watch,Fashion,1.0,4999.0,0.0,Card,Cancelled,2024-01-23,4999.0,4999.0,999.8000000000001,,,
+ORD1200,2025-09-29,Sunita,sunita337@gmail.com,9631221119.0,Mumbai,Maharashtra,Chair,Furniture,2.0,999.0,15.0,COD,Returned,2025-10-09,1998.0,1698.3,339.66,September,2025.0,Monday
+ORD1201,2025-10-05,Swati,swati2984@gmail.com,9515496763.0,Hyderabad,Telangana,Laptop,Electronics,4.0,25000.0,10.0,Card,Delivered,2025-10-15,100000.0,90000.0,18000.0,October,2025.0,Sunday
+ORD1202,2025-06-25,Kavita,kavita1614@gmail.com,9424408867.0,Mumbai,Maharashtra,Mouse,Electronics,2.0,1499.0,5.0,NetBanking,Pending,2025-07-01,2998.0,2848.1,569.62,June,2025.0,Wednesday
+ORD1203,2024-11-18,Naveen,naveen6846@gmail.com,9232998227.0,Kolkata,West Bengal,Chair,Furniture,3.0,1499.0,5.0,NetBanking,Pending,2024-11-21,4497.0,4272.15,854.43,November,2024.0,Monday
+ORD1204,2024-09-02,Vikas,vikas8355@gmail.com,9203097324.0,Jaipur,Rajasthan,Chair,Furniture,1.0,1499.0,10.0,Card,Delivered,2024-09-12,1499.0,1349.1,269.82,September,2024.0,Monday
+ORD1205,2024-08-26,Nisha,nisha6359@gmail.com,9733389569.0,Mumbai,Maharashtra,Chair,Furniture,1.0,1999.0,0.0,Wallet,Delivered,2024-08-31,1999.0,1999.0,399.8,August,2024.0,Monday
+ORD1206,2024-04-25,Sneha,sneha4890@gmail.com,9078417772.0,Pune,Maharashtra,Mouse,Electronics,2.0,499.0,0.0,Wallet,Pending,2024-04-27,998.0,998.0,199.60000000000002,April,2024.0,Thursday
+ORD1207,2024-05-26,Swati,swati9178@gmail.com,9305411709.0,Ahmedabad,Gujarat,Desk,Furniture,1.0,2499.0,10.0,UPI,Delivered,2024-05-28,2499.0,2249.1,449.82,May,2024.0,Sunday
+ORD1208,2025-06-21,Geeta,geeta5594@gmail.com,9739313098.0,Hyderabad,Telangana,Desk,Furniture,4.0,5999.0,20.0,Card,Delivered,2025-07-01,23996.0,19196.8,3839.36,June,2025.0,Saturday
+ORD1209,2025-01-11,Simran,simran3938@gmail.com,9662501381.0,Mumbai,Maharashtra,Mouse,Electronics,1.0,499.0,15.0,COD,Delivered,2025-01-20,499.0,424.15,84.83,January,2025.0,Saturday
+ORD1211,2025-08-10,Geeta,geeta8332@gmail.com,9752164790.0,Bengaluru,Karnataka,Mouse,Electronics,2.0,1499.0,5.0,Wallet,Delivered,2025-08-19,2998.0,2848.1,569.62,August,2025.0,Sunday
+ORD1212,2024-05-02,Vikas,vikas1041@gmail.com,9213948360.0,Ahmedabad,Gujarat,Chair,Furniture,1.0,1499.0,0.0,NetBanking,Delivered,2024-05-11,1499.0,1499.0,299.8,May,2024.0,Thursday
+ORD1213,2025-01-07,Riya,riya5864@gmail.com,9520616676.0,Bengaluru,Karnataka,Mouse,Electronics,2.0,1499.0,5.0,UPI,Delivered,2025-01-09,2998.0,2848.1,569.62,January,2025.0,Tuesday
+ORD1214,,Preeti,preeti3832@gmail.com,9680356836.0,Hyderabad,Telangana,Desk,Furniture,2.0,3999.0,5.0,Card,Delivered,2025-10-26,7998.0,7598.1,1519.6200000000001,,,
+ORD1215,2025-04-11,Divya,divya6409@gmail.com,9873822341.0,Chennai,Tamil Nadu,Laptop,Electronics,2.0,25000.0,10.0,Card,Pending,2025-04-18,50000.0,45000.0,9000.0,April,2025.0,Friday
+ORD1216,2024-11-20,Siddharth,siddharth3963@gmail.com,9053633164.0,Ahmedabad,Gujarat,Chair,Furniture,5.0,1499.0,0.0,Wallet,Delivered,2024-11-26,7495.0,7495.0,1499.0,November,2024.0,Wednesday
+ORD1217,2024-11-18,Preeti,preeti7724@gmail.com,9059063049.0,Mumbai,Maharashtra,Watch,Fashion,4.0,4999.0,10.0,Wallet,Cancelled,2024-11-30,19996.0,17996.4,3599.2800000000007,November,2024.0,Monday
+ORD1218,,Monika,monika287@gmail.com,9559577864.0,Pune,Maharashtra,Laptop,Electronics,1.0,35000.0,10.0,Wallet,Delivered,2024-03-22,35000.0,31500.0,6300.0,,,
+ORD1219,2025-04-05,Karan,karan7113@gmail.com,9498127345.0,Hyderabad,Telangana,Shoes,Fashion,1.0,,5.0,Wallet,Delivered,2025-04-11,,,,April,2025.0,Saturday
+ORD1220,2024-10-21,Divya,divya9338@gmail.com,9481250538.0,Lucknow,Up,Mouse,Electronics,2.0,999.0,5.0,Card,Delivered,2024-10-23,1998.0,1898.1,379.62,October,2024.0,Monday
+ORD1221,2025-07-10,Raj,raj5687@gmail.com,9085422997.0,Kolkata,West Bengal,Chair,Furniture,1.0,999.0,0.0,Card,Delivered,2025-07-12,999.0,999.0,199.8,July,2025.0,Thursday
+ORD1222,2025-08-01,Pankaj,pankaj9272@gmail.com,9011140312.0,Pune,Maharashtra,Desk,Furniture,1.0,3999.0,0.0,Card,Delivered,2025-08-12,3999.0,3999.0,799.8000000000001,August,2025.0,Friday
+ORD1223,2025-09-05,Priya,priya1396@gmail.com,9729422294.0,Pune,Maharashtra,Shoes,Fashion,2.0,2999.0,10.0,COD,Pending,2025-09-15,5998.0,5398.2,1079.64,September,2025.0,Friday
+ORD1224,2024-08-02,Rohit,rohit2532@gmail.com,9961715851.0,Jaipur,Rajasthan,Desk,Furniture,4.0,2499.0,0.0,Card,Pending,2024-08-10,9996.0,9996.0,1999.2,August,2024.0,Friday
+ORD1225,2025-03-11,Divya,divya3611@gmail.com,9721294295.0,Hyderabad,Telangana,Mouse,Electronics,1.0,499.0,20.0,Wallet,Cancelled,2025-03-13,499.0,399.2,79.84,March,2025.0,Tuesday
+ORD1226,2024-01-23,Siddharth,siddharth9263@gmail.com,9059316081.0,Chennai,Tamil Nadu,Watch,Fashion,4.0,999.0,10.0,UPI,Delivered,2024-01-27,3996.0,3596.4,719.2800000000001,January,2024.0,Tuesday
+ORD1227,2024-12-30,Rekha,rekha9085@gmail.com,9006791356.0,Bengaluru,Karnataka,Headphones,Electronics,1.0,2999.0,5.0,NetBanking,Returned,2025-01-10,2999.0,2849.05,569.8100000000001,December,2024.0,Monday
+ORD1229,2024-09-02,Gaurav,gaurav6706@gmail.com,9404691687.0,Pune,Maharashtra,Laptop,Electronics,2.0,45000.0,5.0,NetBanking,Delivered,2024-09-05,90000.0,85500.0,17100.0,September,2024.0,Monday
+ORD1230,2025-09-17,Meera,meera2397@gmail.com,9054738568.0,Bengaluru,Karnataka,Chair,Furniture,2.0,1499.0,20.0,Wallet,Pending,2025-09-26,2998.0,2398.4,479.68000000000006,September,2025.0,Wednesday
+ORD1231,,Rahul,rahul7570@gmail.com,9797154854.0,Mumbai,Maharashtra,Chair,Furniture,3.0,1999.0,15.0,Card,Returned,2025-09-21,5997.0,5097.45,1019.49,,,
+ORD1232,2025-04-14,Suresh,suresh3462@gmail.com,9967941011.0,Hyderabad,Telangana,Chair,Furniture,2.0,1999.0,0.0,Card,Pending,2025-04-19,3998.0,3998.0,799.6,April,2025.0,Monday
+ORD1233,2025-02-02,Rekha,rekha4674@gmail.com,9484057428.0,Kolkata,West Bengal,Watch,Fashion,3.0,4999.0,20.0,NetBanking,Pending,2025-02-06,14997.0,11997.6,2399.52,February,2025.0,Sunday
+ORD1235,2024-09-06,Meera,meera2397@gmail.com,9054738568.0,Hyderabad,Telangana,Desk,Furniture,2.0,5999.0,20.0,Card,Delivered,2024-09-10,11998.0,9598.4,1919.68,September,2024.0,Friday
+ORD1236,2024-03-04,Harish,harish458@gmail.com,9587674610.0,Bengaluru,Karnataka,Headphones,Electronics,1.0,999.0,0.0,Card,Delivered,2024-03-13,999.0,999.0,199.8,March,2024.0,Monday
+ORD1237,2024-09-07,Tanya,tanya4739@gmail.com,9973403713.0,Pune,Maharashtra,Headphones,Electronics,2.0,2999.0,0.0,Card,Delivered,2024-09-15,5998.0,5998.0,1199.6000000000001,September,2024.0,Saturday
+ORD1238,2024-10-02,Rahul,rahul5159@gmail.com,9472521408.0,Delhi,Delhi,Shoes,Fashion,4.0,2999.0,0.0,Wallet,Delivered,2024-10-11,11996.0,11996.0,2399.2000000000003,October,2024.0,Wednesday
+ORD1239,2025-02-12,Naveen,naveen6846@gmail.com,Unknown,Kolkata,West Bengal,Headphones,Electronics,3.0,2999.0,20.0,Wallet,Delivered,2025-02-20,8997.0,7197.6,1439.5200000000002,February,2025.0,Wednesday
+ORD1240,2024-05-14,Ramesh,ramesh8678@gmail.com,9593781720.0,Mumbai,Maharashtra,Headphones,Electronics,2.0,1999.0,0.0,UPI,Cancelled,2024-05-17,3998.0,3998.0,799.6,May,2024.0,Tuesday
+ORD1241,2024-03-30,Harish,harish5956@gmail.com,9580385507.0,Chennai,Tamil Nadu,Desk,Furniture,1.0,2499.0,15.0,Card,Delivered,2024-04-09,2499.0,2124.15,424.83000000000004,March,2024.0,Saturday
+ORD1242,2024-07-14,Vinay,vinay236@gmail.com,9439230145.0,Ahmedabad,Gujarat,Headphones,Electronics,2.0,1999.0,5.0,UPI,Delivered,2024-07-17,3998.0,3798.1,759.62,July,2024.0,Sunday
+ORD1243,2025-04-22,Gaurav,gaurav1081@gmail.com,9446799126.0,Jaipur,Rajasthan,Chair,Furniture,1.0,,5.0,Card,Pending,2025-04-30,,,,April,2025.0,Tuesday
+ORD1244,2024-09-02,Alok,alok6703@gmail.com,9880325514.0,Kolkata,West Bengal,Chair,Furniture,1.0,1999.0,0.0,NetBanking,Delivered,2024-09-04,1999.0,1999.0,399.8,September,2024.0,Monday
+ORD1245,2024-06-24,Anjali,anjali8558@gmail.com,9724305118.0,Jaipur,Rajasthan,Laptop,Electronics,1.0,45000.0,15.0,COD,Delivered,2024-06-27,45000.0,38250.0,7650.0,June,2024.0,Monday
+ORD1246,,Anil,anil4656@gmail.com,9594203719.0,Mumbai,Maharashtra,Shoes,Fashion,3.0,999.0,15.0,UPI,Delivered,2024-02-29,2997.0,2547.45,509.49,,,
+ORD1247,2024-10-04,Rahul,rahul204@gmail.com,9305179286.0,Delhi,Delhi,Headphones,Electronics,5.0,2999.0,15.0,Wallet,Pending,2024-10-10,14995.0,12745.75,2549.15,October,2024.0,Friday
+ORD1248,2024-09-20,Kiran,kiran935@gmail.com,9833429747.0,Bengaluru,Karnataka,Desk,Furniture,3.0,2499.0,20.0,UPI,Delivered,2024-09-28,7497.0,5997.6,1199.5200000000002,September,2024.0,Friday
+ORD1249,2024-12-21,Tanya,tanya2184@gmail.com,9713328757.0,Ahmedabad,Gujarat,Watch,Fashion,1.0,999.0,0.0,UPI,Pending,2024-12-27,999.0,999.0,199.8,December,2024.0,Saturday
+ORD1250,2025-04-10,Rekha,rekha2267@gmail.com,9118312172.0,Kolkata,West Bengal,Laptop,Electronics,3.0,,10.0,UPI,Delivered,2025-04-18,,,,April,2025.0,Thursday
+ORD1251,2024-02-24,Anil,anil4656@gmail.com,9594203719.0,Ahmedabad,Gujarat,Shoes,Fashion,3.0,1499.0,15.0,Wallet,Delivered,2024-02-29,4497.0,3822.45,764.49,February,2024.0,Saturday
+ORD1252,2025-07-13,Riya,riya2249@gmail.com,9302009359.0,Bengaluru,Karnataka,Shoes,Fashion,2.0,1499.0,0.0,Card,Delivered,2025-07-25,2998.0,2998.0,599.6,July,2025.0,Sunday
+ORD1253,2025-04-03,Rekha,rekha1336@gmail.com,9776563789.0,Bengaluru,Karnataka,Desk,Furniture,1.0,2499.0,0.0,NetBanking,Cancelled,2025-04-08,2499.0,2499.0,499.8,April,2025.0,Thursday
+ORD1254,2024-11-07,Priya,priya3426@gmail.com,9096417018.0,Chennai,Tamil Nadu,Watch,Fashion,3.0,4999.0,20.0,Wallet,Pending,2024-11-13,14997.0,11997.6,2399.52,November,2024.0,Thursday
+ORD1255,2025-01-22,Naveen,naveen6846@gmail.com,9232998227.0,Jaipur,Rajasthan,Desk,Furniture,2.0,2499.0,0.0,UPI,Delivered,2025-01-30,4998.0,4998.0,999.6,January,2025.0,Wednesday
+ORD1256,2024-12-23,Nisha,nisha7747@gmail.com,9944691909.0,Ahmedabad,Gujarat,Desk,Furniture,2.0,3999.0,10.0,COD,Delivered,2024-12-28,7998.0,7198.2,1439.64,December,2024.0,Monday
+ORD1257,2025-02-08,Ashish,ashish2816@gmail.com,9025503201.0,Hyderabad,Telangana,Desk,Furniture,3.0,5999.0,0.0,COD,Pending,2025-02-13,17997.0,17997.0,3599.4,February,2025.0,Saturday
+ORD1258,2025-03-18,Pooja,pooja7582@gmail.com,9754417624.0,Delhi,Delhi,Bottle,Home,2.0,499.0,20.0,COD,Delivered,2025-03-24,998.0,798.4,159.68,March,2025.0,Tuesday
+ORD1259,2025-11-27,Priya,priya881@gmail.com,9887760907.0,Ahmedabad,Gujarat,Bottle,Home,2.0,999.0,0.0,NetBanking,Delivered,2025-12-01,1998.0,1998.0,399.6,November,2025.0,Thursday
+ORD1260,2024-07-17,Pankaj,pankaj4814@gmail.com,9095915162.0,Lucknow,Up,Bottle,Home,1.0,299.0,10.0,Card,Cancelled,2024-07-29,299.0,269.1,53.82000000000001,July,2024.0,Wednesday
+ORD1261,2024-04-19,Manish,manish5379@gmail.com,9499754932.0,Hyderabad,Telangana,Mouse,Electronics,1.0,999.0,10.0,Card,Pending,2024-04-24,999.0,899.1,179.82000000000002,April,2024.0,Friday
+ORD1262,2025-05-26,Anil,anil293@gmail.com,9046868743.0,Chennai,Tamil Nadu,Chair,Furniture,2.0,999.0,0.0,COD,Delivered,2025-06-03,1998.0,1998.0,399.6,May,2025.0,Monday
+ORD1263,2024-03-31,Geeta,geeta6452@gmail.com,9135789256.0,Hyderabad,Telangana,Shoes,Fashion,4.0,2999.0,15.0,COD,Delivered,2024-04-09,11996.0,10196.6,2039.3200000000002,March,2024.0,Sunday
+ORD1264,2024-11-25,Manish,manish1916@gmail.com,9686609562.0,Lucknow,Up,Headphones,Electronics,1.0,2999.0,0.0,Card,Cancelled,2024-12-07,2999.0,2999.0,599.8000000000001,November,2024.0,Monday
+ORD1265,2024-01-17,Sonam,sonam5531@gmail.com,9887345071.0,Bengaluru,Karnataka,Desk,Furniture,2.0,2499.0,5.0,Wallet,Delivered,2024-01-29,4998.0,4748.1,949.6200000000001,January,2024.0,Wednesday
+ORD1266,2025-09-10,Karan,karan5825@gmail.com,9089887565.0,Pune,Maharashtra,Watch,Fashion,2.0,1499.0,15.0,UPI,Pending,2025-09-14,2998.0,2548.3,509.6600000000001,September,2025.0,Wednesday
+ORD1267,2025-10-25,Siddharth,siddharth7751@gmail.com,9330699026.0,Delhi,Delhi,Headphones,Electronics,5.0,2999.0,5.0,Wallet,Pending,2025-11-01,14995.0,14245.25,2849.05,October,2025.0,Saturday
+ORD1268,2025-08-03,Anjali,anjali5202@gmail.com,9782438196.0,Hyderabad,Telangana,Headphones,Electronics,1.0,,5.0,Card,Pending,2025-08-07,,,,August,2025.0,Sunday
+ORD1269,2025-05-19,Amit,amit1785@gmail.com,9497743945.0,Mumbai,Maharashtra,Chair,Furniture,5.0,999.0,20.0,COD,Delivered,2025-05-29,4995.0,3996.0,799.2,May,2025.0,Monday
+ORD1270,2025-02-28,Sonam,sonam4277@gmail.com,9822230220.0,Mumbai,Maharashtra,Desk,Furniture,3.0,2499.0,0.0,UPI,Delivered,2025-03-03,7497.0,7497.0,1499.4,February,2025.0,Friday
+ORD1271,2024-01-07,Geeta,geeta6452@gmail.com,9135789256.0,Mumbai,Maharashtra,Watch,Fashion,2.0,1499.0,5.0,NetBanking,Returned,2024-01-18,2998.0,2848.1,569.62,January,2024.0,Sunday
+ORD1272,2024-03-13,Sanjay,sanjay2473@gmail.com,9315350509.0,Ahmedabad,Gujarat,Chair,Furniture,3.0,1999.0,5.0,NetBanking,Delivered,2024-03-22,5997.0,5697.15,1139.43,March,2024.0,Wednesday
+ORD1273,2024-12-26,Rahul,rahul5159@gmail.com,9472521408.0,Chennai,Tamil Nadu,Desk,Furniture,2.0,2499.0,0.0,Card,Returned,2025-01-06,4998.0,4998.0,999.6,December,2024.0,Thursday
+ORD1274,2024-09-10,Priya,priya677@gmail.com,9199314679.0,Ahmedabad,Gujarat,Shoes,Fashion,2.0,2999.0,10.0,UPI,Cancelled,2024-09-13,5998.0,5398.2,1079.64,September,2024.0,Tuesday
+ORD1275,2024-08-31,Rekha,rekha1211@gmail.com,9725069535.0,Mumbai,Maharashtra,Shoes,Fashion,4.0,1499.0,0.0,NetBanking,Cancelled,2024-09-04,5996.0,5996.0,1199.2,August,2024.0,Saturday
+ORD1276,2025-12-01,Priya,priya5530@gmail.com,9788729891.0,Pune,Maharashtra,Mouse,Electronics,1.0,1499.0,0.0,COD,Delivered,2025-12-04,1499.0,1499.0,299.8,December,2025.0,Monday
+ORD1277,2024-12-25,Swati,swati4332@gmail.com,9854911344.0,Kolkata,West Bengal,Watch,Fashion,2.0,1499.0,15.0,UPI,Delivered,2024-12-27,2998.0,2548.3,509.6600000000001,December,2024.0,Wednesday
+ORD1278,,Sunita,sunita9019@gmail.com,9166824661.0,Jaipur,Rajasthan,Mouse,Electronics,1.0,999.0,5.0,Card,Delivered,2025-10-28,999.0,949.05,189.81,,,
+ORD1279,,Manish,manish1538@gmail.com,9255087900.0,Mumbai,Maharashtra,Bottle,Home,3.0,499.0,5.0,UPI,Delivered,2024-10-18,1497.0,1422.15,284.43,,,
+ORD1280,2025-10-24,Ramesh,ramesh1706@gmail.com,9159027801.0,Jaipur,Rajasthan,Mouse,Electronics,1.0,999.0,10.0,NetBanking,Delivered,2025-11-03,999.0,899.1,179.82000000000002,October,2025.0,Friday
+ORD1281,,Sonam,sonam41@gmail.com,9023996394.0,Bengaluru,Karnataka,Chair,Furniture,2.0,1999.0,0.0,Wallet,Delivered,2025-10-08,3998.0,3998.0,799.6,,,
+ORD1282,,Anjali,anjali425@gmail.com,9273552516.0,Ahmedabad,Gujarat,Watch,Fashion,4.0,,0.0,UPI,Delivered,2024-05-02,,,,,,
+ORD1283,,Gaurav,gaurav2084@gmail.com,9096875407.0,Lucknow,Up,Chair,Furniture,2.0,999.0,15.0,Wallet,Pending,2024-08-24,1998.0,1698.3,339.66,,,
+ORD1284,2025-03-05,Nitin,nitin2867@gmail.com,9843934402.0,Jaipur,Rajasthan,Laptop,Electronics,2.0,35000.0,10.0,Card,Delivered,2025-03-07,70000.0,63000.0,12600.0,March,2025.0,Wednesday
+ORD1285,2024-08-04,Ashish,ashish5680@gmail.com,9366488830.0,Ahmedabad,Gujarat,Desk,Furniture,1.0,3999.0,5.0,NetBanking,Cancelled,2024-08-15,3999.0,3799.05,759.8100000000001,August,2024.0,Sunday
+ORD1286,,Ravi,ravi7163@gmail.com,9182486084.0,Chennai,Tamil Nadu,Shoes,Fashion,1.0,1499.0,15.0,Card,Delivered,2025-06-10,1499.0,1274.15,254.83000000000004,,,
+ORD1287,2024-11-05,Rekha,rekha1336@gmail.com,9776563789.0,Jaipur,Rajasthan,Mouse,Electronics,3.0,1499.0,20.0,Card,Delivered,2024-11-09,4497.0,3597.6,719.52,November,2024.0,Tuesday
+ORD1288,,Sanjay,sanjay1759@gmail.com,9682438241.0,Kolkata,West Bengal,Desk,Furniture,2.0,5999.0,20.0,Wallet,Delivered,2025-04-12,11998.0,9598.4,1919.68,,,
+ORD1289,2024-11-08,Ramesh,ramesh6009@gmail.com,9534035008.0,Chennai,Tamil Nadu,Bottle,Home,1.0,999.0,0.0,COD,Pending,2024-11-16,999.0,999.0,199.8,November,2024.0,Friday
+ORD1290,2024-12-05,Suresh,suresh3448@gmail.com,9516143982.0,Pune,Maharashtra,Desk,Furniture,4.0,3999.0,0.0,COD,Delivered,2024-12-13,15996.0,15996.0,3199.2000000000003,December,2024.0,Thursday
+ORD1291,2024-05-04,Sneha,sneha4890@gmail.com,9078417772.0,Jaipur,Rajasthan,Bottle,Home,1.0,299.0,0.0,Card,Cancelled,2024-05-14,299.0,299.0,59.800000000000004,May,2024.0,Saturday
+ORD1292,2025-05-12,Sonam,sonam5531@gmail.com,9887345071.0,Bengaluru,Karnataka,Shoes,Fashion,2.0,1499.0,0.0,COD,Delivered,2025-05-18,2998.0,2998.0,599.6,May,2025.0,Monday
+ORD1293,2024-03-21,Priya,priya771@gmail.com,9303666608.0,Lucknow,Up,Laptop,Electronics,3.0,35000.0,0.0,Wallet,Delivered,2024-03-31,105000.0,105000.0,21000.0,March,2024.0,Thursday
+ORD1294,2024-08-12,Sonam,sonam7891@gmail.com,9922183655.0,Hyderabad,Telangana,Desk,Furniture,4.0,3999.0,20.0,COD,Delivered,2024-08-23,15996.0,12796.8,2559.36,August,2024.0,Monday
+ORD1295,2025-04-10,Sanjay,sanjay3323@gmail.com,9572453611.0,Bengaluru,Karnataka,Laptop,Electronics,2.0,45000.0,10.0,COD,Delivered,2025-04-20,90000.0,81000.0,16200.0,April,2025.0,Thursday
+ORD1296,2024-03-15,Divya,divya6409@gmail.com,9873822341.0,Mumbai,Maharashtra,Bottle,Home,4.0,999.0,5.0,NetBanking,Pending,2024-03-25,3996.0,3796.2,759.24,March,2024.0,Friday
+ORD1297,2025-04-24,Tarun,tarun7218@gmail.com,9169003921.0,Lucknow,Up,Shoes,Fashion,2.0,999.0,10.0,Wallet,Cancelled,2025-04-30,1998.0,1798.2,359.64000000000004,April,2025.0,Thursday
+ORD1298,2025-07-02,Anjali,anjali5692@gmail.com,9262871451.0,Jaipur,Rajasthan,Mouse,Electronics,1.0,1499.0,0.0,Wallet,Delivered,2025-07-06,1499.0,1499.0,299.8,July,2025.0,Wednesday
+ORD1299,2024-07-25,Prashant,prashant2534@gmail.com,9956547376.0,Bengaluru,Karnataka,Headphones,Electronics,1.0,999.0,20.0,NetBanking,Delivered,2024-07-29,999.0,799.2,159.84000000000003,July,2024.0,Thursday
+ORD1300,2024-11-20,Ravi,ravi7163@gmail.com,9182486084.0,Mumbai,Maharashtra,Laptop,Electronics,1.0,35000.0,10.0,Wallet,Delivered,2024-12-01,35000.0,31500.0,6300.0,November,2024.0,Wednesday
+ORD1301,2025-04-06,Ramesh,ramesh8678@gmail.com,9593781720.0,Hyderabad,Telangana,Headphones,Electronics,1.0,1999.0,15.0,Wallet,Delivered,2025-04-15,1999.0,1699.15,339.83000000000004,April,2025.0,Sunday
+ORD1302,2024-03-27,Rahul,rahul2454@gmail.com,9944619947.0,Bengaluru,Karnataka,Desk,Furniture,5.0,5999.0,15.0,COD,Pending,2024-04-07,29995.0,25495.75,5099.150000000001,March,2024.0,Wednesday
+ORD1303,2024-08-13,Gaurav,gaurav2084@gmail.com,9096875407.0,Mumbai,Maharashtra,Laptop,Electronics,2.0,45000.0,0.0,COD,Delivered,2024-08-22,90000.0,90000.0,18000.0,August,2024.0,Tuesday
+ORD1306,2024-02-08,Rahul,rahul9337@gmail.com,9353482652.0,Chennai,Tamil Nadu,Bottle,Home,3.0,299.0,10.0,COD,Cancelled,2024-02-19,897.0,807.3,161.46,February,2024.0,Thursday
+ORD1307,2024-07-20,Geeta,geeta8332@gmail.com,9752164790.0,Jaipur,Rajasthan,Bottle,Home,2.0,499.0,10.0,COD,Delivered,2024-07-27,998.0,898.2,179.64000000000001,July,2024.0,Saturday
+ORD1309,2024-02-05,Divya,divya4241@gmail.com,9350703976.0,Hyderabad,Telangana,Headphones,Electronics,3.0,1999.0,10.0,NetBanking,Pending,2024-02-14,5997.0,5397.3,1079.46,February,2024.0,Monday
+ORD1310,2024-04-19,Harish,harish7852@gmail.com,9684808662.0,Lucknow,Up,Headphones,Electronics,5.0,999.0,20.0,UPI,Delivered,2024-04-30,4995.0,3996.0,799.2,April,2024.0,Friday
+ORD1311,2024-08-26,Ravi,ravi7163@gmail.com,9182486084.0,Delhi,Delhi,Bottle,Home,3.0,299.0,5.0,UPI,Delivered,2024-08-29,897.0,852.15,170.43,August,2024.0,Monday
+ORD1312,,Deepak,deepak3485@gmail.com,9360734438.0,Jaipur,Rajasthan,Chair,Furniture,4.0,999.0,0.0,COD,Delivered,2024-02-18,3996.0,3996.0,799.2,,,
+ORD1313,2024-06-05,Suresh,suresh2624@gmail.com,9436586676.0,Bengaluru,Karnataka,Watch,Fashion,1.0,1499.0,5.0,Wallet,Delivered,2024-06-14,1499.0,1424.05,284.81,June,2024.0,Wednesday
+ORD1315,2024-08-29,Deepak,deepak3485@gmail.com,9360734438.0,Ahmedabad,Gujarat,Laptop,Electronics,1.0,25000.0,15.0,COD,Delivered,2024-09-04,25000.0,21250.0,4250.0,August,2024.0,Thursday
+ORD1316,2025-11-01,Siddharth,siddharth3794@gmail.com,9505352650.0,Bengaluru,Karnataka,Desk,Furniture,2.0,5999.0,0.0,COD,Delivered,2025-11-12,11998.0,11998.0,2399.6,November,2025.0,Saturday
+ORD1317,2025-03-29,Riya,riya5864@gmail.com,9520616676.0,Bengaluru,Karnataka,Mouse,Electronics,1.0,999.0,5.0,Card,Pending,2025-04-02,999.0,949.05,189.81,March,2025.0,Saturday
+ORD1319,,Saurabh,saurabh2338@gmail.com,9031816560.0,Bengaluru,Karnataka,Laptop,Electronics,2.0,35000.0,5.0,COD,Delivered,2025-03-12,70000.0,66500.0,13300.0,,,
+ORD1320,2025-01-06,Anjali,anjali5202@gmail.com,9782438196.0,Jaipur,Rajasthan,Headphones,Electronics,1.0,2999.0,20.0,Card,Delivered,2025-01-09,2999.0,2399.2,479.84,January,2025.0,Monday
+ORD1321,2024-11-13,Meera,meera6785@gmail.com,9001897219.0,Delhi,Delhi,Headphones,Electronics,2.0,1999.0,0.0,UPI,Returned,2024-11-24,3998.0,3998.0,799.6,November,2024.0,Wednesday
+ORD1322,2025-09-18,Preeti,preeti7724@gmail.com,9059063049.0,Delhi,Delhi,Shoes,Fashion,1.0,2999.0,10.0,UPI,Delivered,2025-09-28,2999.0,2699.1,539.82,September,2025.0,Thursday
+ORD1323,2025-06-10,Sonam,sonam9165@gmail.com,9766983136.0,Lucknow,Up,Watch,Fashion,2.0,1499.0,0.0,NetBanking,Delivered,2025-06-20,2998.0,2998.0,599.6,June,2025.0,Tuesday
+ORD1324,2025-10-26,Vikas,vikas1041@gmail.com,9213948360.0,Ahmedabad,Gujarat,Mouse,Electronics,1.0,,0.0,NetBanking,Returned,2025-11-05,,,,October,2025.0,Sunday
+ORD1325,2025-05-27,Vinay,vinay5941@gmail.com,9064663016.0,Lucknow,Up,Desk,Furniture,4.0,3999.0,0.0,Card,Pending,2025-06-01,15996.0,15996.0,3199.2000000000003,May,2025.0,Tuesday
+ORD1326,2024-12-25,Swati,swati7414@gmail.com,9212399117.0,Mumbai,Maharashtra,Headphones,Electronics,1.0,1999.0,5.0,NetBanking,Delivered,2024-12-28,1999.0,1899.05,379.81,December,2024.0,Wednesday
+ORD1327,2024-01-14,Neha,neha2071@gmail.com,9791536788.0,Chennai,Tamil Nadu,Mouse,Electronics,1.0,499.0,15.0,Wallet,Returned,2024-01-16,499.0,424.15,84.83,January,2024.0,Sunday
+ORD1328,2025-10-22,Ravi,ravi4799@gmail.com,9096275609.0,Bengaluru,Karnataka,Shoes,Fashion,1.0,999.0,5.0,NetBanking,Delivered,2025-10-29,999.0,949.05,189.81,October,2025.0,Wednesday
+ORD1329,2024-06-17,Simran,simran7039@gmail.com,9023146383.0,Delhi,Delhi,Desk,Furniture,1.0,2499.0,0.0,Card,Delivered,2024-06-29,2499.0,2499.0,499.8,June,2024.0,Monday
+ORD1330,2025-09-18,Vinay,vinay2574@gmail.com,9963207944.0,Pune,Maharashtra,Desk,Furniture,2.0,2499.0,0.0,COD,Delivered,2025-09-21,4998.0,4998.0,999.6,September,2025.0,Thursday
+ORD1332,2024-05-10,Nitin,nitin5770@gmail.com,9715486048.0,Chennai,Tamil Nadu,Bottle,Home,3.0,999.0,10.0,UPI,Delivered,2024-05-17,2997.0,2697.3,539.46,May,2024.0,Friday
+ORD1333,2024-03-15,Rohit,rohit7959@gmail.com,9274690296.0,Pune,Maharashtra,Headphones,Electronics,5.0,999.0,15.0,Wallet,Delivered,2024-03-25,4995.0,4245.75,849.1500000000001,March,2024.0,Friday
+ORD1334,2025-11-22,Gaurav,gaurav2084@gmail.com,9096875407.0,Delhi,Delhi,Headphones,Electronics,5.0,2999.0,5.0,Card,Delivered,2025-12-03,14995.0,14245.25,2849.05,November,2025.0,Saturday
+ORD1335,2025-06-17,Sonal,sonal2653@gmail.com,9249597819.0,Delhi,Delhi,Bottle,Home,1.0,299.0,10.0,UPI,Pending,2025-06-28,299.0,269.1,53.82000000000001,June,2025.0,Tuesday
+ORD1336,2024-05-21,Priya,priya5201@gmail.com,9788503951.0,Pune,Maharashtra,Laptop,Electronics,2.0,35000.0,0.0,UPI,Delivered,2024-06-01,70000.0,70000.0,14000.0,May,2024.0,Tuesday
+ORD1338,2024-11-18,Nisha,nisha6359@gmail.com,9733389569.0,Chennai,Tamil Nadu,Chair,Furniture,1.0,999.0,15.0,UPI,Delivered,2024-11-23,999.0,849.15,169.83,November,2024.0,Monday
+ORD1339,2024-12-04,Rekha,rekha1211@gmail.com,9725069535.0,Ahmedabad,Gujarat,Laptop,Electronics,2.0,45000.0,5.0,Wallet,Delivered,2024-12-12,90000.0,85500.0,17100.0,December,2024.0,Wednesday
+ORD1340,2024-12-31,Vikas,vikas8355@gmail.com,9203097324.0,Mumbai,Maharashtra,Shoes,Fashion,1.0,999.0,0.0,COD,Delivered,2025-01-12,999.0,999.0,199.8,December,2024.0,Tuesday
+ORD1341,2024-07-24,Divya,divya9338@gmail.com,9481250538.0,Kolkata,West Bengal,Watch,Fashion,4.0,4999.0,20.0,NetBanking,Delivered,2024-07-31,19996.0,15996.8,3199.36,July,2024.0,Wednesday
+ORD1342,2025-11-05,Nitin,nitin7135@gmail.com,9097087952.0,Mumbai,Maharashtra,Laptop,Electronics,1.0,45000.0,20.0,Card,Pending,2025-11-07,45000.0,36000.0,7200.0,November,2025.0,Wednesday
+ORD1344,2025-05-25,Sonam,sonam3115@gmail.com,9559422436.0,Bengaluru,Karnataka,Shoes,Fashion,3.0,2999.0,0.0,UPI,Returned,2025-05-31,8997.0,8997.0,1799.4,May,2025.0,Sunday
+ORD1345,2024-03-06,Deepak,deepak5316@gmail.com,9933565071.0,Delhi,Delhi,Laptop,Electronics,3.0,35000.0,0.0,NetBanking,Delivered,2024-03-11,105000.0,105000.0,21000.0,March,2024.0,Wednesday
+ORD1346,,Amit,amit1785@gmail.com,9497743945.0,Pune,Maharashtra,Desk,Furniture,4.0,5999.0,0.0,NetBanking,Pending,2024-09-10,23996.0,23996.0,4799.2,,,
+ORD1347,2025-08-26,Rahul,rahul1072@gmail.com,9634425364.0,Lucknow,Up,Bottle,Home,3.0,499.0,10.0,COD,Pending,2025-09-05,1497.0,1347.3,269.46,August,2025.0,Tuesday
+ORD1348,2024-04-23,Simran,simran5373@gmail.com,Unknown,Chennai,Tamil Nadu,Bottle,Home,3.0,499.0,5.0,UPI,Delivered,2024-05-04,1497.0,1422.15,284.43,April,2024.0,Tuesday
+ORD1349,2025-05-18,Nitin,nitin7135@gmail.com,9097087952.0,Jaipur,Rajasthan,Shoes,Fashion,3.0,4999.0,5.0,Card,Returned,2025-05-27,14997.0,14247.15,2849.4300000000003,May,2025.0,Sunday
+ORD1350,,Aditya,aditya9222@gmail.com,9460514263.0,Bengaluru,Karnataka,Headphones,Electronics,1.0,2999.0,10.0,UPI,Cancelled,2025-08-24,2999.0,2699.1,539.82,,,
+ORD1351,2025-05-07,Ramesh,ramesh2777@gmail.com,9868019479.0,Ahmedabad,Gujarat,Laptop,Electronics,1.0,35000.0,5.0,UPI,Delivered,2025-05-10,35000.0,33250.0,6650.0,May,2025.0,Wednesday
+ORD1352,2025-07-01,Ashish,ashish3839@gmail.com,9312695598.0,Lucknow,Up,Laptop,Electronics,4.0,35000.0,0.0,Wallet,Delivered,2025-07-10,140000.0,140000.0,28000.0,July,2025.0,Tuesday
+ORD1353,,Pooja,pooja7582@gmail.com,9754417624.0,Mumbai,Maharashtra,Bottle,Home,2.0,999.0,0.0,COD,Delivered,2024-03-19,1998.0,1998.0,399.6,,,
+ORD1354,2024-10-19,Tarun,tarun7218@gmail.com,9169003921.0,Jaipur,Rajasthan,Shoes,Fashion,1.0,4999.0,15.0,Wallet,Delivered,2024-10-26,4999.0,4249.15,849.8299999999999,October,2024.0,Saturday
+ORD1355,2025-07-22,Ravi,ravi2815@gmail.com,9954159528.0,Kolkata,West Bengal,Bottle,Home,2.0,499.0,0.0,Wallet,Delivered,2025-07-27,998.0,998.0,199.60000000000002,July,2025.0,Tuesday
+ORD1356,2025-02-27,Swati,swati1079@gmail.com,9099899432.0,Hyderabad,Telangana,Laptop,Electronics,4.0,,20.0,Card,Delivered,2025-03-05,,,,February,2025.0,Thursday
+ORD1357,2025-01-02,Vikas,vikas8355@gmail.com,9203097324.0,Kolkata,West Bengal,Laptop,Electronics,1.0,25000.0,15.0,Wallet,Delivered,2025-01-05,25000.0,21250.0,4250.0,January,2025.0,Thursday
+ORD1358,2024-06-28,Ravi,ravi2815@gmail.com,9954159528.0,Ahmedabad,Gujarat,Mouse,Electronics,2.0,999.0,10.0,NetBanking,Cancelled,2024-07-08,1998.0,1798.2,359.64000000000004,June,2024.0,Friday
+ORD1359,2024-11-27,Preeti,preeti5332@gmail.com,9071815968.0,Lucknow,Up,Chair,Furniture,2.0,1999.0,0.0,NetBanking,Delivered,2024-11-29,3998.0,3998.0,799.6,November,2024.0,Wednesday
+ORD1361,2024-03-24,Sunita,sunita9742@gmail.com,9858627988.0,Pune,Maharashtra,Laptop,Electronics,2.0,35000.0,0.0,COD,Delivered,2024-03-26,70000.0,70000.0,14000.0,March,2024.0,Sunday
+ORD1362,2024-01-29,Suresh,suresh1994@gmail.com,9079589902.0,Jaipur,Rajasthan,Watch,Fashion,4.0,4999.0,15.0,UPI,Delivered,2024-02-05,19996.0,16996.6,3399.3199999999997,January,2024.0,Monday
+ORD1363,2025-09-26,Aditya,aditya8889@gmail.com,9495122931.0,Pune,Maharashtra,Bottle,Home,3.0,499.0,0.0,COD,Delivered,2025-10-04,1497.0,1497.0,299.40000000000003,September,2025.0,Friday
+ORD1364,,Ashish,ashish2816@gmail.com,9025503201.0,Lucknow,Up,Desk,Furniture,2.0,3999.0,5.0,NetBanking,Delivered,2025-04-14,7998.0,7598.1,1519.6200000000001,,,
+ORD1365,2024-06-14,Anjali,anjali772@gmail.com,9475894082.0,Kolkata,West Bengal,Headphones,Electronics,2.0,1999.0,5.0,COD,Delivered,2024-06-18,3998.0,3798.1,759.62,June,2024.0,Friday
+ORD1366,2025-08-12,Ravi,ravi4977@gmail.com,9698482453.0,Pune,Maharashtra,Desk,Furniture,2.0,5999.0,5.0,UPI,Delivered,2025-08-18,11998.0,11398.1,2279.6200000000003,August,2025.0,Tuesday
+ORD1367,2025-09-26,Sunita,sunita5710@gmail.com,9373964812.0,Chennai,Tamil Nadu,Laptop,Electronics,2.0,45000.0,10.0,NetBanking,Cancelled,2025-10-03,90000.0,81000.0,16200.0,September,2025.0,Friday
+ORD1368,2025-01-30,Rohit,rohit862@gmail.com,9954328979.0,Kolkata,West Bengal,Desk,Furniture,1.0,2499.0,15.0,UPI,Pending,2025-02-06,2499.0,2124.15,424.83000000000004,January,2025.0,Thursday
+ORD1369,,Siddharth,siddharth6990@gmail.com,9631159567.0,Lucknow,Up,Shoes,Fashion,4.0,1499.0,0.0,Wallet,Delivered,2024-10-04,5996.0,5996.0,1199.2,,,
+ORD1370,,Vinay,vinay5941@gmail.com,9064663016.0,Mumbai,Maharashtra,Desk,Furniture,3.0,,15.0,Card,Pending,2024-12-18,,,,,,
+ORD1371,2025-07-23,Sanjay,sanjay2365@gmail.com,9988869338.0,Lucknow,Up,Shoes,Fashion,1.0,999.0,5.0,COD,Delivered,2025-08-02,999.0,949.05,189.81,July,2025.0,Wednesday
+ORD1372,2024-03-12,Sanjay,sanjay2365@gmail.com,9988869338.0,Pune,Maharashtra,Shoes,Fashion,5.0,,10.0,Card,Delivered,2024-03-19,,,,March,2024.0,Tuesday
+ORD1373,2025-11-21,Ravi,ravi4977@gmail.com,9698482453.0,Kolkata,West Bengal,Watch,Fashion,1.0,1499.0,0.0,NetBanking,Delivered,2025-11-29,1499.0,1499.0,299.8,November,2025.0,Friday
+ORD1374,,Priya,priya771@gmail.com,9303666608.0,Hyderabad,Telangana,Shoes,Fashion,2.0,1499.0,15.0,NetBanking,Pending,2025-08-16,2998.0,2548.3,509.6600000000001,,,
+ORD1375,2024-09-24,Rohit,rohit3070@gmail.com,9201899380.0,Delhi,Delhi,Watch,Fashion,2.0,1499.0,5.0,COD,Delivered,2024-09-30,2998.0,2848.1,569.62,September,2024.0,Tuesday
+ORD1376,2025-11-20,Swati,swati1079@gmail.com,9099899432.0,Ahmedabad,Gujarat,Headphones,Electronics,3.0,999.0,0.0,Wallet,Cancelled,2025-11-23,2997.0,2997.0,599.4,November,2025.0,Thursday
+ORD1377,,Nitin,nitin5770@gmail.com,9715486048.0,Delhi,Delhi,Shoes,Fashion,4.0,,0.0,Card,Returned,2024-09-09,,,,,,
+ORD1378,2025-09-18,Geeta,geeta8332@gmail.com,9752164790.0,Jaipur,Rajasthan,Watch,Fashion,3.0,1499.0,5.0,Card,Delivered,2025-09-22,4497.0,4272.15,854.43,September,2025.0,Thursday
+ORD1379,2025-11-24,Siddharth,siddharth7445@gmail.com,9189861349.0,Pune,Maharashtra,Bottle,Home,2.0,499.0,15.0,UPI,Delivered,2025-12-01,998.0,848.3,169.66,November,2025.0,Monday
+ORD1380,2024-12-29,Kiran,kiran7710@gmail.com,9301964842.0,Lucknow,Up,Headphones,Electronics,1.0,1999.0,20.0,Card,Returned,2025-01-07,1999.0,1599.2,319.84000000000003,December,2024.0,Sunday
+ORD1381,2025-11-01,Rohit,rohit7959@gmail.com,9274690296.0,Mumbai,Maharashtra,Desk,Furniture,2.0,3999.0,0.0,UPI,Pending,2025-11-04,7998.0,7998.0,1599.6000000000001,November,2025.0,Saturday
+ORD1382,2025-03-02,Sunita,sunita337@gmail.com,9631221119.0,Jaipur,Rajasthan,Laptop,Electronics,3.0,35000.0,10.0,NetBanking,Delivered,2025-03-11,105000.0,94500.0,18900.0,March,2025.0,Sunday
+ORD1383,2025-08-27,Amit,amit6309@gmail.com,9468647338.0,Pune,Maharashtra,Shoes,Fashion,3.0,4999.0,5.0,COD,Pending,2025-09-04,14997.0,14247.15,2849.4300000000003,August,2025.0,Wednesday
+ORD1384,,Aditya,aditya4925@gmail.com,9439977305.0,Hyderabad,Telangana,Chair,Furniture,1.0,999.0,0.0,COD,Cancelled,2025-09-30,999.0,999.0,199.8,,,
+ORD1385,2024-12-17,Sanjay,sanjay3323@gmail.com,9572453611.0,Jaipur,Rajasthan,Mouse,Electronics,3.0,499.0,0.0,UPI,Pending,2024-12-29,1497.0,1497.0,299.40000000000003,December,2024.0,Tuesday
+ORD1386,,Pankaj,pankaj4814@gmail.com,9095915162.0,Chennai,Tamil Nadu,Watch,Fashion,1.0,1499.0,5.0,NetBanking,Returned,2025-11-19,1499.0,1424.05,284.81,,,
+ORD1387,2024-02-04,Anil,anil9355@gmail.com,9922919781.0,Bengaluru,Karnataka,Chair,Furniture,1.0,999.0,10.0,COD,Delivered,2024-02-11,999.0,899.1,179.82000000000002,February,2024.0,Sunday
+ORD1388,2024-08-25,Raj,raj8813@gmail.com,9636131600.0,Chennai,Tamil Nadu,Desk,Furniture,1.0,3999.0,0.0,Card,Returned,2024-08-29,3999.0,3999.0,799.8000000000001,August,2024.0,Sunday
+ORD1389,2025-07-18,Simran,simran590@gmail.com,9392940261.0,Kolkata,West Bengal,Watch,Fashion,1.0,,20.0,COD,Cancelled,2025-07-22,,,,July,2025.0,Friday
+ORD1390,2025-08-02,Gaurav,gaurav7125@gmail.com,9828110510.0,Bengaluru,Karnataka,Mouse,Electronics,2.0,999.0,5.0,Card,Pending,2025-08-06,1998.0,1898.1,379.62,August,2025.0,Saturday
+ORD1391,2025-04-01,Anjali,anjali5692@gmail.com,9262871451.0,Kolkata,West Bengal,Desk,Furniture,2.0,5999.0,5.0,NetBanking,Delivered,2025-04-12,11998.0,11398.1,2279.6200000000003,April,2025.0,Tuesday
+ORD1393,2024-12-26,Saurabh,saurabh1545@gmail.com,9082006753.0,Jaipur,Rajasthan,Chair,Furniture,2.0,1999.0,0.0,COD,Delivered,2024-12-29,3998.0,3998.0,799.6,December,2024.0,Thursday
+ORD1394,2025-11-12,Sanjay,sanjay1830@gmail.com,9641641910.0,Delhi,Delhi,Watch,Fashion,2.0,999.0,5.0,COD,Delivered,2025-11-21,1998.0,1898.1,379.62,November,2025.0,Wednesday
+ORD1395,2024-06-17,Tanya,tanya2184@gmail.com,9713328757.0,Ahmedabad,Gujarat,Desk,Furniture,2.0,2499.0,0.0,Wallet,Delivered,2024-06-19,4998.0,4998.0,999.6,June,2024.0,Monday
+ORD1396,2024-02-28,Priya,priya7105@gmail.com,9181883948.0,Lucknow,Up,Desk,Furniture,1.0,3999.0,0.0,COD,Delivered,2024-03-10,3999.0,3999.0,799.8000000000001,February,2024.0,Wednesday
+ORD1399,2025-02-23,Ramesh,ramesh6009@gmail.com,9534035008.0,Bengaluru,Karnataka,Watch,Fashion,1.0,1499.0,15.0,NetBanking,Cancelled,2025-02-28,1499.0,1274.15,254.83000000000004,February,2025.0,Sunday
+ORD1400,2025-03-07,Sneha,sneha6635@gmail.com,9403259304.0,Pune,Maharashtra,Shoes,Fashion,4.0,1499.0,5.0,COD,Delivered,2025-03-15,5996.0,5696.2,1139.24,March,2025.0,Friday
+ORD1401,2025-09-07,Ramesh,ramesh8030@gmail.com,9811892387.0,Hyderabad,Telangana,Mouse,Electronics,1.0,499.0,10.0,NetBanking,Delivered,2025-09-10,499.0,449.1,89.82000000000001,September,2025.0,Sunday
+ORD1402,,Kiran,kiran4132@gmail.com,9791398061.0,Hyderabad,Telangana,Laptop,Electronics,1.0,25000.0,10.0,COD,Delivered,2024-08-14,25000.0,22500.0,4500.0,,,
+ORD1403,2024-11-01,Geeta,geeta5713@gmail.com,9645905099.0,Mumbai,Maharashtra,Chair,Furniture,2.0,1499.0,20.0,UPI,Delivered,2024-11-05,2998.0,2398.4,479.68000000000006,November,2024.0,Friday
+ORD1404,2024-04-04,Divya,divya3605@gmail.com,9718041041.0,Ahmedabad,Gujarat,Watch,Fashion,1.0,,0.0,COD,Delivered,2024-04-13,,,,April,2024.0,Thursday
+ORD1406,2024-08-24,Gaurav,gaurav6706@gmail.com,9404691687.0,Hyderabad,Telangana,Desk,Furniture,4.0,5999.0,5.0,Card,Pending,2024-08-26,23996.0,22796.2,4559.240000000001,August,2024.0,Saturday
+ORD1408,2024-08-29,Alok,alok6626@gmail.com,9684393517.0,Mumbai,Maharashtra,Shoes,Fashion,2.0,2999.0,0.0,Card,Delivered,2024-08-31,5998.0,5998.0,1199.6000000000001,August,2024.0,Thursday
+ORD1409,2025-12-01,Kavita,kavita3909@gmail.com,9856797977.0,Jaipur,Rajasthan,Bottle,Home,1.0,499.0,5.0,COD,Delivered,2025-12-09,499.0,474.05,94.81,December,2025.0,Monday
+ORD1410,2025-08-27,Gaurav,gaurav7671@gmail.com,9262311336.0,Jaipur,Rajasthan,Mouse,Electronics,4.0,,5.0,Card,Pending,2025-09-02,,,,August,2025.0,Wednesday
+ORD1411,2025-01-26,Gaurav,gaurav7671@gmail.com,9262311336.0,Chennai,Tamil Nadu,Mouse,Electronics,1.0,1499.0,15.0,Wallet,Returned,2025-01-30,1499.0,1274.15,254.83000000000004,January,2025.0,Sunday
+ORD1412,2025-06-12,Neha,neha6795@gmail.com,9434427514.0,Mumbai,Maharashtra,Laptop,Electronics,1.0,45000.0,0.0,Card,Pending,2025-06-19,45000.0,45000.0,9000.0,June,2025.0,Thursday
+ORD1413,2024-03-08,Sonal,sonal1625@gmail.com,9256567707.0,Ahmedabad,Gujarat,Desk,Furniture,2.0,5999.0,0.0,COD,Pending,2024-03-16,11998.0,11998.0,2399.6,March,2024.0,Friday
+ORD1414,2025-09-24,Simran,simran7039@gmail.com,9023146383.0,Hyderabad,Telangana,Watch,Fashion,1.0,1499.0,0.0,COD,Delivered,2025-09-29,1499.0,1499.0,299.8,September,2025.0,Wednesday
+ORD1415,,Pooja,pooja4048@gmail.com,9008180797.0,Chennai,Tamil Nadu,Chair,Furniture,4.0,1499.0,15.0,NetBanking,Cancelled,2024-11-01,5996.0,5096.6,1019.3200000000002,,,
+ORD1416,2024-09-04,Manish,manish1916@gmail.com,9686609562.0,Lucknow,Up,Desk,Furniture,2.0,2499.0,0.0,NetBanking,Returned,2024-09-11,4998.0,4998.0,999.6,September,2024.0,Wednesday
+ORD1417,2024-11-15,Gaurav,gaurav7125@gmail.com,9828110510.0,Pune,Maharashtra,Bottle,Home,1.0,299.0,15.0,UPI,Returned,2024-11-26,299.0,254.15,50.830000000000005,November,2024.0,Friday
+ORD1418,2024-04-01,Tarun,tarun2424@gmail.com,9475508875.0,Chennai,Tamil Nadu,Shoes,Fashion,2.0,999.0,0.0,Wallet,Delivered,2024-04-03,1998.0,1998.0,399.6,April,2024.0,Monday
+ORD1419,2024-03-22,Suresh,suresh1994@gmail.com,9079589902.0,Hyderabad,Telangana,Bottle,Home,3.0,999.0,15.0,COD,Delivered,2024-03-26,2997.0,2547.45,509.49,March,2024.0,Friday
+ORD1420,,Neha,neha2528@gmail.com,9130045654.0,Hyderabad,Telangana,Headphones,Electronics,3.0,1999.0,0.0,NetBanking,Pending,2025-05-11,5997.0,5997.0,1199.4,,,
+ORD1421,2024-12-03,Naveen,naveen8990@gmail.com,9121462755.0,Pune,Maharashtra,Mouse,Electronics,3.0,1499.0,0.0,Card,Delivered,2024-12-14,4497.0,4497.0,899.4000000000001,December,2024.0,Tuesday
+ORD1422,2025-01-15,Meera,meera8093@gmail.com,9628969297.0,Pune,Maharashtra,Desk,Furniture,1.0,3999.0,5.0,Wallet,Delivered,2025-01-20,3999.0,3799.05,759.8100000000001,January,2025.0,Wednesday
+ORD1423,2024-09-02,Kavita,kavita3909@gmail.com,9856797977.0,Chennai,Tamil Nadu,Mouse,Electronics,2.0,1499.0,5.0,Wallet,Returned,2024-09-11,2998.0,2848.1,569.62,September,2024.0,Monday
+ORD1424,2025-07-17,Harish,harish8937@gmail.com,9230956939.0,Ahmedabad,Gujarat,Bottle,Home,1.0,299.0,10.0,Card,Pending,2025-07-26,299.0,269.1,53.82000000000001,July,2025.0,Thursday
+ORD1425,2025-01-06,Tanya,tanya2184@gmail.com,9713328757.0,Mumbai,Maharashtra,Mouse,Electronics,3.0,499.0,15.0,UPI,Delivered,2025-01-08,1497.0,1272.45,254.49,January,2025.0,Monday
+ORD1426,2024-10-01,Siddharth,siddharth5918@gmail.com,9139711960.0,Chennai,Tamil Nadu,Chair,Furniture,1.0,999.0,5.0,Card,Delivered,2024-10-11,999.0,949.05,189.81,October,2024.0,Tuesday
+ORD1427,2024-06-06,Rohit,rohit804@gmail.com,9004944277.0,Lucknow,Up,Chair,Furniture,3.0,1499.0,15.0,COD,Delivered,2024-06-10,4497.0,3822.45,764.49,June,2024.0,Thursday
+ORD1429,2025-03-10,Aditya,aditya4925@gmail.com,9439977305.0,Chennai,Tamil Nadu,Mouse,Electronics,5.0,499.0,15.0,UPI,Pending,2025-03-12,2495.0,2120.75,424.15000000000003,March,2025.0,Monday
+ORD1430,2025-02-05,Pooja,pooja7582@gmail.com,9754417624.0,Bengaluru,Karnataka,Desk,Furniture,2.0,5999.0,0.0,COD,Pending,2025-02-14,11998.0,11998.0,2399.6,February,2025.0,Wednesday
+ORD1431,2025-03-03,Siddharth,siddharth7445@gmail.com,9189861349.0,Kolkata,West Bengal,Laptop,Electronics,5.0,25000.0,20.0,Card,Pending,2025-03-05,125000.0,100000.0,20000.0,March,2025.0,Monday
+ORD1432,,Alok,alok6703@gmail.com,9880325514.0,Mumbai,Maharashtra,Shoes,Fashion,3.0,2999.0,10.0,Card,Returned,2024-06-03,8997.0,8097.3,1619.46,,,
+ORD1433,2024-04-29,Nisha,nisha7283@gmail.com,9226627055.0,Ahmedabad,Gujarat,Mouse,Electronics,1.0,499.0,10.0,UPI,Delivered,2024-05-07,499.0,449.1,89.82000000000001,April,2024.0,Monday
+ORD1434,,Arjun,arjun725@gmail.com,9075138530.0,Jaipur,Rajasthan,Watch,Fashion,4.0,999.0,0.0,NetBanking,Delivered,2024-04-11,3996.0,3996.0,799.2,,,
+ORD1435,2024-02-23,Vinay,vinay5609@gmail.com,9453446766.0,Hyderabad,Telangana,Chair,Furniture,1.0,1499.0,0.0,Wallet,Pending,2024-02-29,1499.0,1499.0,299.8,February,2024.0,Friday
+ORD1436,2025-11-12,Meera,meera6310@gmail.com,9603027059.0,Lucknow,Up,Shoes,Fashion,1.0,4999.0,15.0,NetBanking,Delivered,2025-11-18,4999.0,4249.15,849.8299999999999,November,2025.0,Wednesday
+ORD1437,2024-08-15,Siddharth,siddharth9235@gmail.com,9802807503.0,Jaipur,Rajasthan,Mouse,Electronics,3.0,1499.0,10.0,UPI,Delivered,2024-08-27,4497.0,4047.3,809.46,August,2024.0,Thursday
+ORD1438,,Sunita,sunita4127@gmail.com,9168015518.0,Pune,Maharashtra,Bottle,Home,1.0,499.0,10.0,NetBanking,Delivered,2025-06-08,499.0,449.1,89.82000000000001,,,
+ORD1439,2024-08-06,Tarun,tarun2424@gmail.com,9475508875.0,Jaipur,Rajasthan,Laptop,Electronics,1.0,35000.0,10.0,Card,Cancelled,2024-08-13,35000.0,31500.0,6300.0,August,2024.0,Tuesday
+ORD1440,2025-11-05,Sunita,sunita7746@gmail.com,9782318907.0,Hyderabad,Telangana,Laptop,Electronics,3.0,45000.0,10.0,Card,Cancelled,2025-11-08,135000.0,121500.0,24300.0,November,2025.0,Wednesday
+ORD1441,2024-12-11,Sanjay,sanjay905@gmail.com,9361544184.0,Hyderabad,Telangana,Headphones,Electronics,1.0,999.0,10.0,Wallet,Delivered,2024-12-22,999.0,899.1,179.82000000000002,December,2024.0,Wednesday
+ORD1442,2024-10-26,Saurabh,saurabh1545@gmail.com,9082006753.0,Mumbai,Maharashtra,Bottle,Home,2.0,299.0,5.0,Wallet,Delivered,2024-11-01,598.0,568.1,113.62,October,2024.0,Saturday
+ORD1443,,Monika,monika287@gmail.com,9559577864.0,Ahmedabad,Gujarat,Bottle,Home,1.0,299.0,20.0,NetBanking,Delivered,2024-10-21,299.0,239.2,47.84,,,
+ORD1444,2025-07-23,Kiran,kiran985@gmail.com,9701376610.0,Lucknow,Up,Chair,Furniture,5.0,1999.0,5.0,Card,Delivered,2025-07-28,9995.0,9495.25,1899.0500000000002,July,2025.0,Wednesday
+ORD1445,2024-04-04,Sanjay,sanjay7896@gmail.com,9638920700.0,Bengaluru,Karnataka,Headphones,Electronics,3.0,999.0,15.0,UPI,Returned,2024-04-09,2997.0,2547.45,509.49,April,2024.0,Thursday
+ORD1446,,Arjun,arjun4054@gmail.com,9928163790.0,Chennai,Tamil Nadu,Chair,Furniture,4.0,,10.0,COD,Returned,2025-06-09,,,,,,
+ORD1447,2024-03-15,Priya,priya5201@gmail.com,9788503951.0,Chennai,Tamil Nadu,Bottle,Home,1.0,299.0,5.0,UPI,Delivered,2024-03-22,299.0,284.05,56.81,March,2024.0,Friday
+ORD1448,2024-07-30,Harish,harish9577@gmail.com,9403917816.0,Jaipur,Rajasthan,Chair,Furniture,1.0,,10.0,NetBanking,Delivered,2024-08-11,,,,July,2024.0,Tuesday
+ORD1449,2025-04-16,Saurabh,saurabh9401@gmail.com,9687755714.0,Bengaluru,Karnataka,Mouse,Electronics,5.0,499.0,5.0,Card,Delivered,2025-04-18,2495.0,2370.25,474.05,April,2025.0,Wednesday
+ORD1450,2024-08-25,Prashant,prashant2534@gmail.com,9956547376.0,Hyderabad,Telangana,Mouse,Electronics,1.0,999.0,0.0,Wallet,Delivered,2024-09-01,999.0,999.0,199.8,August,2024.0,Sunday
+ORD1451,2025-01-10,Ravi,ravi4977@gmail.com,9698482453.0,Pune,Maharashtra,Bottle,Home,1.0,499.0,0.0,Card,Returned,2025-01-19,499.0,499.0,99.80000000000001,January,2025.0,Friday
+ORD1452,,Kiran,kiran4132@gmail.com,9791398061.0,Delhi,Delhi,Headphones,Electronics,2.0,2999.0,0.0,COD,Delivered,2025-05-24,5998.0,5998.0,1199.6000000000001,,,
+ORD1453,2025-11-02,Preeti,preeti7143@gmail.com,9998299412.0,Lucknow,Up,Headphones,Electronics,2.0,2999.0,5.0,COD,Returned,2025-11-07,5998.0,5698.1,1139.6200000000001,November,2025.0,Sunday
+ORD1454,2025-10-14,Sonam,sonam4277@gmail.com,9822230220.0,Ahmedabad,Gujarat,Bottle,Home,2.0,299.0,0.0,COD,Delivered,2025-10-18,598.0,598.0,119.60000000000001,October,2025.0,Tuesday
+ORD1456,2025-06-25,Swati,swati2705@gmail.com,9184207664.0,Delhi,Delhi,Bottle,Home,3.0,499.0,0.0,Wallet,Returned,2025-07-05,1497.0,1497.0,299.40000000000003,June,2025.0,Wednesday
+ORD1457,2024-07-01,Suresh,suresh2624@gmail.com,9436586676.0,Lucknow,Up,Laptop,Electronics,2.0,25000.0,10.0,UPI,Pending,2024-07-07,50000.0,45000.0,9000.0,July,2024.0,Monday
+ORD1458,2025-07-29,Sanjay,sanjay905@gmail.com,9361544184.0,Kolkata,West Bengal,Headphones,Electronics,1.0,999.0,20.0,UPI,Delivered,2025-08-08,999.0,799.2,159.84000000000003,July,2025.0,Tuesday
+ORD1460,,Sanjay,sanjay7896@gmail.com,9638920700.0,Ahmedabad,Gujarat,Bottle,Home,3.0,,0.0,UPI,Delivered,2025-03-31,,,,,,
+ORD1461,2025-01-03,Riya,riya4453@gmail.com,9725106299.0,Mumbai,Maharashtra,Watch,Fashion,2.0,4999.0,0.0,Wallet,Delivered,2025-01-08,9998.0,9998.0,1999.6000000000001,January,2025.0,Friday
+ORD1462,2025-04-13,Deepak,deepak2742@gmail.com,9440765681.0,Bengaluru,Karnataka,Laptop,Electronics,1.0,45000.0,0.0,COD,Delivered,2025-04-20,45000.0,45000.0,9000.0,April,2025.0,Sunday
+ORD1463,2024-08-16,Arjun,arjun8867@gmail.com,9408542727.0,Ahmedabad,Gujarat,Shoes,Fashion,1.0,4999.0,10.0,Card,Delivered,2024-08-27,4999.0,4499.1,899.8200000000002,August,2024.0,Friday
+ORD1464,2024-03-17,Swati,swati476@gmail.com,9507030068.0,Kolkata,West Bengal,Watch,Fashion,1.0,4999.0,10.0,COD,Delivered,2024-03-27,4999.0,4499.1,899.8200000000002,March,2024.0,Sunday
+ORD1465,2024-08-04,Ramesh,ramesh8030@gmail.com,9811892387.0,Jaipur,Rajasthan,Laptop,Electronics,2.0,35000.0,20.0,COD,Delivered,2024-08-08,70000.0,56000.0,11200.0,August,2024.0,Sunday
+ORD1466,2025-05-13,Sunita,sunita337@gmail.com,9631221119.0,Jaipur,Rajasthan,Chair,Furniture,2.0,1499.0,10.0,Wallet,Delivered,2025-05-19,2998.0,2698.2,539.64,May,2025.0,Tuesday
+ORD1467,2024-05-21,Siddharth,siddharth7445@gmail.com,9189861349.0,Ahmedabad,Gujarat,Shoes,Fashion,1.0,,5.0,NetBanking,Delivered,2024-05-27,,,,May,2024.0,Tuesday
+ORD1468,2024-10-13,Gaurav,gaurav6448@gmail.com,9987289404.0,Ahmedabad,Gujarat,Shoes,Fashion,1.0,4999.0,15.0,Wallet,Pending,2024-10-25,4999.0,4249.15,849.8299999999999,October,2024.0,Sunday
+ORD1469,2024-01-24,Arjun,arjun815@gmail.com,Unknown,Kolkata,West Bengal,Laptop,Electronics,1.0,45000.0,0.0,COD,Delivered,2024-02-01,45000.0,45000.0,9000.0,January,2024.0,Wednesday
+ORD1470,2024-06-16,Preeti,preeti2619@gmail.com,9046599485.0,Ahmedabad,Gujarat,Mouse,Electronics,2.0,999.0,10.0,Wallet,Returned,2024-06-22,1998.0,1798.2,359.64000000000004,June,2024.0,Sunday
+ORD1471,2025-04-14,Swati,swati9178@gmail.com,9305411709.0,Hyderabad,Telangana,Laptop,Electronics,1.0,35000.0,0.0,COD,Pending,2025-04-21,35000.0,35000.0,7000.0,April,2025.0,Monday
+ORD1472,2025-08-22,Geeta,geeta5713@gmail.com,9645905099.0,Bengaluru,Karnataka,Laptop,Electronics,4.0,45000.0,10.0,COD,Cancelled,2025-09-02,180000.0,162000.0,32400.0,August,2025.0,Friday
+ORD1473,2025-04-11,Pooja,pooja3626@gmail.com,9279956297.0,Pune,Maharashtra,Shoes,Fashion,2.0,1499.0,5.0,Wallet,Delivered,2025-04-20,2998.0,2848.1,569.62,April,2025.0,Friday
+ORD1474,2024-07-20,Sonam,sonam962@gmail.com,9395742913.0,Mumbai,Maharashtra,Bottle,Home,2.0,499.0,15.0,COD,Delivered,2024-07-30,998.0,848.3,169.66,July,2024.0,Saturday
+ORD1475,2024-10-25,Divya,divya1106@gmail.com,9322650924.0,Jaipur,Rajasthan,Laptop,Electronics,1.0,25000.0,0.0,Card,Delivered,2024-11-06,25000.0,25000.0,5000.0,October,2024.0,Friday
+ORD1477,2024-01-21,Rohit,rohit862@gmail.com,9954328979.0,Hyderabad,Telangana,Desk,Furniture,1.0,3999.0,15.0,COD,Pending,2024-01-30,3999.0,3399.15,679.83,January,2024.0,Sunday
+ORD1478,,Naveen,naveen8990@gmail.com,9121462755.0,Ahmedabad,Gujarat,Shoes,Fashion,1.0,2999.0,5.0,COD,Delivered,2024-04-03,2999.0,2849.05,569.8100000000001,,,
+ORD1480,2025-01-20,Saurabh,saurabh8315@gmail.com,9411664972.0,Lucknow,Up,Headphones,Electronics,3.0,2999.0,0.0,UPI,Delivered,2025-01-27,8997.0,8997.0,1799.4,January,2025.0,Monday
+ORD1481,2024-09-25,Kavita,kavita1614@gmail.com,9424408867.0,Ahmedabad,Gujarat,Laptop,Electronics,1.0,45000.0,15.0,Wallet,Delivered,2024-10-07,45000.0,38250.0,7650.0,September,2024.0,Wednesday
+ORD1482,2024-06-11,Anjali,anjali8641@gmail.com,9493327336.0,Mumbai,Maharashtra,Laptop,Electronics,1.0,,5.0,UPI,Delivered,2024-06-14,,,,June,2024.0,Tuesday
+ORD1483,,Rohit,rohit804@gmail.com,9004944277.0,Pune,Maharashtra,Mouse,Electronics,1.0,1499.0,20.0,NetBanking,Delivered,2024-09-11,1499.0,1199.2,239.84000000000003,,,
+ORD1484,2024-03-29,Sonal,sonal7043@gmail.com,9144452800.0,Jaipur,Rajasthan,Bottle,Home,4.0,,0.0,NetBanking,Delivered,2024-04-02,,,,March,2024.0,Friday
+ORD1485,2024-04-11,Saurabh,saurabh8315@gmail.com,9411664972.0,Kolkata,West Bengal,Headphones,Electronics,2.0,1999.0,10.0,COD,Delivered,2024-04-20,3998.0,3598.2,719.64,April,2024.0,Thursday
+ORD1486,,Tarun,tarun7218@gmail.com,9169003921.0,Lucknow,Up,Headphones,Electronics,2.0,2999.0,20.0,NetBanking,Cancelled,2025-02-27,5998.0,4798.4,959.68,,,
+ORD1487,2025-06-20,Priya,priya1846@gmail.com,9724976338.0,Kolkata,West Bengal,Bottle,Home,2.0,299.0,0.0,COD,Delivered,2025-06-26,598.0,598.0,119.60000000000001,June,2025.0,Friday
+ORD1488,2024-01-06,Vinay,vinay2574@gmail.com,9963207944.0,Mumbai,Maharashtra,Headphones,Electronics,2.0,1999.0,0.0,NetBanking,Pending,2024-01-12,3998.0,3998.0,799.6,January,2024.0,Saturday
+ORD1489,2024-12-13,Siddharth,siddharth9263@gmail.com,9059316081.0,Kolkata,West Bengal,Chair,Furniture,1.0,999.0,5.0,Wallet,Delivered,2024-12-20,999.0,949.05,189.81,December,2024.0,Friday
+ORD1490,2024-05-17,Simran,simran8991@gmail.com,9496317399.0,Pune,Maharashtra,Chair,Furniture,1.0,1499.0,10.0,NetBanking,Delivered,2024-05-20,1499.0,1349.1,269.82,May,2024.0,Friday
+ORD1491,2025-06-19,Karan,karan5825@gmail.com,9089887565.0,Hyderabad,Telangana,Desk,Furniture,1.0,3999.0,0.0,UPI,Pending,2025-06-23,3999.0,3999.0,799.8000000000001,June,2025.0,Thursday
+ORD1493,2024-07-13,Pooja,pooja3626@gmail.com,9279956297.0,Pune,Maharashtra,Chair,Furniture,2.0,1499.0,15.0,Card,Delivered,2024-07-25,2998.0,2548.3,509.6600000000001,July,2024.0,Saturday
+ORD1494,2024-10-09,Suresh,suresh3448@gmail.com,9516143982.0,Pune,Maharashtra,Mouse,Electronics,5.0,1499.0,0.0,Wallet,Pending,2024-10-15,7495.0,7495.0,1499.0,October,2024.0,Wednesday
+ORD1496,2024-12-15,Nitin,nitin7135@gmail.com,9097087952.0,Lucknow,Up,Bottle,Home,1.0,299.0,5.0,COD,Delivered,2024-12-22,299.0,284.05,56.81,December,2024.0,Sunday
+ORD1497,2025-11-28,Swati,swati476@gmail.com,9507030068.0,Lucknow,Up,Laptop,Electronics,2.0,25000.0,15.0,COD,Cancelled,2025-12-03,50000.0,42500.0,8500.0,November,2025.0,Friday
+ORD1498,2024-10-13,Kiran,kiran6981@gmail.com,9783470659.0,Delhi,Delhi,Laptop,Electronics,4.0,25000.0,10.0,Card,Cancelled,2024-10-22,100000.0,90000.0,18000.0,October,2024.0,Sunday
+ORD1499,2024-09-21,Saurabh,saurabh1545@gmail.com,9082006753.0,Kolkata,West Bengal,Headphones,Electronics,2.0,1999.0,5.0,UPI,Pending,2024-10-02,3998.0,3798.1,759.62,September,2024.0,Saturday
+ORD1500,2024-03-18,Jyoti,jyoti5808@gmail.com,9713873701.0,Hyderabad,Telangana,Desk,Furniture,2.0,3999.0,0.0,Wallet,Pending,2024-03-21,7998.0,7998.0,1599.6000000000001,March,2024.0,Monday
